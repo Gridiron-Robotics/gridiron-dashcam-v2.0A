@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 8:04:43 AM On 9/14/2024
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [BeSpoke V1.0 A.PcbDoc]
+   Generated File[BeSpoke V1.0 A_A_2024-09-14.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:04:54 AM On 9/14/2024
