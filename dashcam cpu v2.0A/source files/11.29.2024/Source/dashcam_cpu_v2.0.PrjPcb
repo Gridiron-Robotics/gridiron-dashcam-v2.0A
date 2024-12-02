@@ -501,12 +501,7 @@ UniqueID=9000A0FD-E0ED-46F7-AF28-34E7102E1D20
 Description=Base Variant
 AllowFabrication=0
 ParameterCount=0
-VariationCount=5
-Variation1=Designator=R5|UniqueId=\MEVDBVFS|Kind=0|AlternatePart= 
-Variation2=Designator=R?|UniqueId=\YWAUXTAQ|Kind=0|AlternatePart= 
-Variation3=Designator=R36|UniqueId=\AZTBYCUP|Kind=1|AlternatePart= 
-Variation4=Designator=R36|UniqueId=\VGVEFAKA|Kind=0|AlternatePart= 
-Variation5=Designator=J2|UniqueId=\UTQSVONS|Kind=1|AlternatePart= 
+VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
