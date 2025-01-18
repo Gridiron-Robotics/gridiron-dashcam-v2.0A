@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=J2-77
+Removed Pin From Net: NetName=GND Pin=J2-79
+Added Pin To Net: NetName=4G_USB_D_N Pin=J2-77
+Added Pin To Net: NetName=4G_USB_D_N Pin=U1-E14
+Added Net: Name=4G_USB_D_N
+Added Pin To Net: NetName=4G_USB_D_P Pin=J2-79
+Added Pin To Net: NetName=4G_USB_D_P Pin=U1-D14
+Added Net: Name=4G_USB_D_P
+Added Differential Pair: Name=4G_USB_D
+Removed Member From Class: ClassName=Z90 Member=USB2_D
+Added Member To Class: ClassName=Z90 Member=4G_USB_D
