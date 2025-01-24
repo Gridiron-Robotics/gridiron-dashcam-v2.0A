@@ -1,0 +1,54 @@
+Add Component: Footprint Not Found DIO_TVS_SODFL1608X70N
+Add Component: Footprint Not Found DIO_TVS_SODFL1608X70N
+Add Component: Footprint Not Found DIO_TVS_SODFL1608X70N
+Add Component: Footprint Not Found DIO_TVS_SODFL1608X70N
+Add Component: Footprint Not Found DIO_TVS_SODFL1608X70N
+Add Component: Footprint Not Found DIO_TVS_SODFL1608X70N
+Add Component: Footprint Not Found DIO_TVS_SODFL1608X70N
+Add Component: Footprint Not Found CONN_HDR_MALE_10P_2R
+Add Pin To Net: Unknown Pin: Pin D14-1
+Add Pin To Net: Unknown Pin: Pin D14-2
+Add Pin To Net: Unknown Pin: Pin D15-1
+Add Pin To Net: Unknown Pin: Pin D16-1
+Add Pin To Net: Unknown Pin: Pin D17-1
+Add Pin To Net: Unknown Pin: Pin D18-1
+Add Pin To Net: Unknown Pin: Pin D19-1
+Add Pin To Net: Unknown Pin: Pin D20-1
+Add Pin To Net: Unknown Pin: Pin J6-1
+Add Pin To Net: Unknown Pin: Pin J6-3
+Add Pin To Net: Unknown Pin: Pin J6-5
+Add Pin To Net: Unknown Pin: Pin J6-7
+Add Pin To Net: Unknown Pin: Pin J6-9
+Add Pin To Net: Unknown Pin: Pin J6-10
+Add Net: Net with name "BOOT_MODE2" already exists
+Add Net: Net with name "BOOT_MODE3" already exists
+Add Net: Net with name "CSI2_CK_N" already exists
+Add Net: Net with name "CSI2_CK_P" already exists
+Add Net: Net with name "CSI2_D0_N" already exists
+Add Net: Net with name "CSI2_D0_P" already exists
+Add Net: Net with name "CSI2_D1_N" already exists
+Add Net: Net with name "CSI2_D1_P" already exists
+Add Net: Net with name "CSI2_D2_N" already exists
+Add Net: Net with name "CSI2_D2_P" already exists
+Add Net: Net with name "CSI2_D3_N" already exists
+Add Net: Net with name "CSI2_D3_P" already exists
+Add Net: Net with name "I2C2_SCL" already exists
+Add Net: Net with name "I2C2_SDA" already exists
+Add Net: Net with name "JTAG_TCK" already exists
+Add Net: Net with name "JTAG_TDI" already exists
+Add Net: Net with name "JTAG_TDO" already exists
+Add Net: Net with name "JTAG_TMS" already exists
+Add Net: Net with name "POR_B" already exists
+Add Net: Net with name "SD2_CLK" already exists
+Add Net: Net with name "SD2_CMD" already exists
+Add Net: Net with name "SD2_DATA0" already exists
+Add Net: Net with name "SD2_DATA1" already exists
+Add Net: Net with name "SD2_DATA2" already exists
+Add Net: Net with name "SD2_DATA3" already exists
+Add Net: Net with name "SD2_nCD" already exists
+Add Net: Net with name "SYS_nRST" already exists
+Add Class: Class already exists: S
+Add Class: Class already exists: S
+Add Class: Class already exists: S
+Add Class: Class already exists: S
+Add Class: Class already exists: S

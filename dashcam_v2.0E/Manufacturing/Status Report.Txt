@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:24:55 AM On 5/7/2024
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [Base Variant] of PCB Document [Dashcam CPU_V1.0 A.PcbDoc]
+   Generated File[Dashcam CPU_V1.0 A_A_2024-05-07.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:25:12 AM On 5/7/2024
