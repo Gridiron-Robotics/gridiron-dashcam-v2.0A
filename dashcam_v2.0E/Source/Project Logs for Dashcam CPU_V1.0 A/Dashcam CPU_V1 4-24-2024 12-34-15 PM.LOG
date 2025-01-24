@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=SD2_CLK Pin=J1-28
+Removed Pin From Net: NetName=SD2_CMD Pin=J1-30
+Removed Pin From Net: NetName=SD2_DATA1 Pin=J1-32
+Removed Pin From Net: NetName=SD2_DATA0 Pin=J1-34
+Removed Pin From Net: NetName=SD2_nCD Pin=J1-36
+Removed Pin From Net: NetName=SYS_nRST Pin=J1-40
+Added Pin To Net: NetName=SYS_nRST Pin=J1-30
+Added Pin To Net: NetName=SD2_CLK Pin=J1-32
+Added Pin To Net: NetName=SD2_CMD Pin=J1-34
+Added Pin To Net: NetName=SD2_DATA1 Pin=J1-36
+Added Pin To Net: NetName=SD2_DATA0 Pin=J1-38
+Added Pin To Net: NetName=SD2_nCD Pin=J1-40
+Added Pin To Net: NetName=NetJ1_28 Pin=J1-28
+Added Pin To Net: NetName=NetJ1_28 Pin=R49-2
+Added Net: Name=NetJ1_28

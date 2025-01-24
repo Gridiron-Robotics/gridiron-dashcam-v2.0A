@@ -1,0 +1,149 @@
+Change Component Footprint: Designator=J1 Old Footprint=CONN_B2B_HIROSE_DF40C-100DS-0.4V(51) New Footprint=CONN_100_0P4_21P7X2P05_SM
+Change Component Footprint: Designator=J2 Old Footprint=CONN_B2B_HIROSE_DF40C-100DS-0.4V(51) New Footprint=CONN_100_0P4_21P7X2P05_SM
+Change Component Comment : Designator=J1 Old Comment=DF40C-100DS-0.4V(51) New Comment=DF40C-100DP-0.4V(51)
+Change Component Comment : Designator=J2 Old Comment=DF40C-100DS-0.4V(51) New Comment=DF40C-100DP-0.4V(51)
+Change component parameters: Designator = "J1" ("J1"); Footprint = "CONN_B2B_HIROSE_DF40C-100DS-0.4V(51)"; UniqueID = "\WZUHXRHQ\TBLUOOOX\KQUHKWTQ" ("\WZUHXRHQ\TBLUOOOX\KQUHKWTQ")
+Change component parameters (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/26948/getdatasheetpartid-434445-26948932.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/26948/getdatasheetpartid-434445-26948932.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/46408/1824826-46408893.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/46408/1824826-46408893.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Plug"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "90mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "300mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "1.85mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "21.52mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Hirose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "DF40C-100DP-0.4V(51)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mated Stacking Heights"; Value = "4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "300mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "30V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-35°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "0.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.75, 10=1.519, 25=1.4544, 50=1.422, 100=1.3574, 250=1.22816, 500=1.1312, 1000=0.9696, 2500=0.90496 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reach SVHC Compliant"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "DF40"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stack Height"; Value = "1.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "16704"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "H11614CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "30V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "CONN_B2B_HIROSE_DF40C-100DS-0.4V(51)"; UniqueID = "\WZUHXRHQ\LZYHEFQZ\MZIHPQFL" ("\WZUHXRHQ\LZYHEFQZ\MZIHPQFL")
+Change component parameters (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/26948/getdatasheetpartid-434445-26948932.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/26948/getdatasheetpartid-434445-26948932.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/46408/1824826-46408893.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/46408/1824826-46408893.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Plug"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "90mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "300mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "1.85mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "21.52mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Hirose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "DF40C-100DP-0.4V(51)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mated Stacking Heights"; Value = "4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "300mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "30V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-35°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "0.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1.75, 10=1.519, 25=1.4544, 50=1.422, 100=1.3574, 250=1.22816, 500=1.1312, 1000=0.9696, 2500=0.90496 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reach SVHC Compliant"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "DF40"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stack Height"; Value = "1.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "16704"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "H11614CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "30V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-SH
+Added Pin To Net: NetName=GND Pin=J1-SH
+Added Pin To Net: NetName=GND Pin=J1-SH
+Added Pin To Net: NetName=GND Pin=J1-SH
+Added Pin To Net: NetName=GND Pin=J2-SH
+Added Pin To Net: NetName=GND Pin=J2-SH
+Added Pin To Net: NetName=GND Pin=J2-SH
+Added Pin To Net: NetName=GND Pin=J2-SH
+PCB-ECO: Change Pad Propagation Delay: Old=40.3ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=39.5ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=39.8ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=43.1ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=48.9ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=43.5ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=39.5ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=44.2ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=33.5ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=61.7ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=40.3ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=39.5ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=71.6ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=42.6ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=54.4ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=62.3ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=49.1ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=43.5ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=48.3ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=40.3ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=61.7ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=62.3ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=43.5ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=54.4ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=43.1ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=48.3ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=49.1ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=40.3ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=39.5ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=48.9ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=39.8ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=44.2ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=39.5ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=42.6ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=33.5ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=33.5ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=40.8ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=38ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=37.8ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=28.3ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=47.4ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=24.5ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=24.5ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=28.3ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=47.4ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=37.8ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=38ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=40.8ps New=0ps
+PCB-ECO: Change Pad Propagation Delay: Old=33.5ps New=0ps
