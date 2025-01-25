@@ -1,6 +1,6 @@
 ﻿[Design]
 Version=1.0
-HierarchyMode=0
+HierarchyMode=2
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ChannelDesignatorFormatString=$Component_$RoomName
@@ -781,20 +781,20 @@ DocumentPath=Project Outputs for Dashcam CPU_V1.0 A\Design Rule Check - Dashcam 
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Hat
-Value=
+Name=Version
+Value=1.0
 
 [Parameter2]
-Name=Letter
-Value=A
-
-[Parameter3]
 Name=ProjectTitle
 Value=Dashcam CPU_V1.0 A
 
+[Parameter3]
+Name=Letter
+Value=A
+
 [Parameter4]
-Name=Version
-Value=1.0
+Name=Hat
+Value=
 
 [Configuration1]
 Name=Sources
