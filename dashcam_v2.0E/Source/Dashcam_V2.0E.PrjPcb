@@ -294,7 +294,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OUMPEIVQ
 
 [Document15]
-DocumentPath=Connector A.SchDoc
+DocumentPath=PERIPHERALS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -430,7 +430,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document23]
-DocumentPath=Connector A.Harness
+DocumentPath=PERIPHERALS.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
