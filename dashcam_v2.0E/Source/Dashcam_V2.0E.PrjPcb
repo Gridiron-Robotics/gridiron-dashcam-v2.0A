@@ -56,7 +56,7 @@ ReleaseFolderPath=C:\Users\snee\Documents\Altium\Projects\Sentinel Controller\Pr
 ReleaseZipPath=[OutputPath][ProjectName].zip
 
 [Document1]
-DocumentPath=dashcam_v2.0E - Cover and Revision.SchDoc
+DocumentPath=DASHCAM_V2.0E - Cover and Revisions.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -73,7 +73,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PCPJTHFB
 
 [Document2]
-DocumentPath=Dashcam CPU_V1.0 A - Top Level.SchDoc
+DocumentPath=DASHCAM CPU_V1.0 A - Top Level.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
