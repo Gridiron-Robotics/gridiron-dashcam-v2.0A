@@ -73,7 +73,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PCPJTHFB
 
 [Document2]
-DocumentPath=DASHCAM CPU_V1.0 A - Top Level.SchDoc
+DocumentPath=DASHCAM CPU_V2.0E - Top Level.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -124,7 +124,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RQORXKDH
 
 [Document5]
-DocumentPath=Dashcam CPU_V1.0 A.BomDoc
+DocumentPath=Dashcam CPU_V2.0E.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -447,7 +447,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document24]
-DocumentPath=Dashcam CPU_V1.0 A.PCBDwf
+DocumentPath=Dashcam CPU_V2.0E.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1206,20 +1206,20 @@ DocumentPath=Project Outputs for Dashcam CPU_V1.0 A\Design Rule Check - Dashcam 
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Hat
-Value=
+Name=Version
+Value=2.0
 
 [Parameter2]
-Name=Letter
-Value=A
+Name=ProjectTitle
+Value=Dashcam CPU_V2.0E
 
 [Parameter3]
-Name=ProjectTitle
-Value=Dashcam CPU_V1.0 A
+Name=Letter
+Value=E
 
 [Parameter4]
-Name=Version
-Value=1.0
+Name=Hat
+Value=
 
 [Configuration1]
 Name=Sources
