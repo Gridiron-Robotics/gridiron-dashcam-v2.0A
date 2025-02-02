@@ -1,0 +1,142 @@
+Removed Pin From Net: NetName=VDD_1V8 Pin=C218-2
+Removed Pin From Net: NetName=VDD_1V8 Pin=C219-2
+Removed Pin From Net: NetName=VDD_1V8 Pin=C220-2
+Removed Pin From Net: NetName=VDD_1V8 Pin=C221-2
+Removed Pin From Net: NetName=VDD_1V8 Pin=D22-2
+Removed Pin From Net: NetName=POR_B Pin=D23-2
+Removed Pin From Net: NetName=SYS_nRST Pin=D24-2
+Removed Pin From Net: NetName=CLKOUT2 Pin=R114-1
+Removed Pin From Net: NetName=CLKOUT2 Pin=R115-1
+Removed Pin From Net: NetName=SLASEL1_R Pin=R116-2
+Removed Pin From Net: NetName=SLASEL2_R Pin=R117-2
+Removed Pin From Net: NetName=I2C2_SCL Pin=R118-1
+Removed Pin From Net: NetName=I2C2_SDA Pin=R119-1
+Removed Pin From Net: NetName=CSI_PWDN_R Pin=R120-2
+Removed Pin From Net: NetName=CLKOUT1 Pin=R121-1
+Removed Pin From Net: NetName=JTAG_TMS Pin=R134-1
+Removed Pin From Net: NetName=VDD_1V8 Pin=R134-2
+Removed Pin From Net: NetName=JTAG_TDI Pin=R135-1
+Removed Pin From Net: NetName=VDD_1V8 Pin=R135-2
+Removed Pin From Net: NetName=VDD_1V8 Pin=R137-2
+Removed Pin From Net: NetName=GND Pin=R140-2
+Removed Pin From Net: NetName=JTAG_MOD Pin=R141-2
+Removed Pin From Net: NetName=CSI_nRST_R Pin=R166-2
+Removed Pin From Net: NetName=GND Pin=S1-1
+Removed Pin From Net: NetName=GND Pin=S1-2
+Removed Pin From Net: NetName=SYS_nRST Pin=S1-3
+Removed Pin From Net: NetName=SYS_nRST Pin=S1-4
+Removed Pin From Net: NetName=VDD_1V8 Pin=U25-12
+Removed Pin From Net: NetName=VDD_1V8 Pin=U25-37
+Removed Pin From Net: NetName=VDD_1V8 Pin=U25-49
+Removed Pin From Net: NetName=VDD_1V8 Pin=U25-64
+Removed Pin From Net: NetName=GND Pin=U?-B1
+Removed Pin From Net: NetName=GND Pin=U?-B2
+Removed Member From Class: ClassName=U_DBG BOOT_CONF Member=D22
+Removed Member From Class: ClassName=U_DBG BOOT_CONF Member=D23
+Removed Member From Class: ClassName=U_DBG BOOT_CONF Member=D24
+Removed Member From Class: ClassName=U_CAMERA Member=R114
+Removed Member From Class: ClassName=U_CAMERA Member=R115
+Removed Member From Class: ClassName=U_CAMERA Member=R116
+Removed Member From Class: ClassName=U_CAMERA Member=R117
+Removed Member From Class: ClassName=U_CAMERA Member=R118
+Removed Member From Class: ClassName=U_CAMERA Member=R119
+Removed Member From Class: ClassName=U_CAMERA Member=R120
+Removed Member From Class: ClassName=U_CAMERA Member=R121
+Removed Member From Class: ClassName=U_DBG BOOT_CONF Member=R134
+Removed Member From Class: ClassName=U_DBG BOOT_CONF Member=R135
+Removed Member From Class: ClassName=U_DBG BOOT_CONF Member=R136
+Removed Member From Class: ClassName=U_DBG BOOT_CONF Member=R137
+Removed Member From Class: ClassName=U_DBG BOOT_CONF Member=R140
+Removed Member From Class: ClassName=U_DBG BOOT_CONF Member=R141
+Removed Member From Class: ClassName=U_CAMERA Member=R166
+Removed Member From Class: ClassName=U_DBG BOOT_CONF Member=S1
+Removed Member From Class: ClassName=Designator Member=U?
+Change Component Footprint: Designator=Y5 Old Footprint=ABRACON ABLS New Footprint=FP-ABM3-MFG
+Change Component Comment : Designator=Y5 Old Comment=12 MHz New Comment=ABM3-12.000MHZ-D2Y-T
+Change Managed Component Library Link : Designator=Y5 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A42F05BB-7E8B-4771-B251-C710F7E7E579 Old RevisionGUID= New RevisionGUID=475F6372-910E-4692-8C11-3DBF1AC72864
+Change component parameters: Designator = "Y5" ("Y5"); Footprint = "ABRACON ABLS"; UniqueID = "\TBLUOOOX\JMOMCESA\WLFFVZYU" ("\TBLUOOOX\JMOMCESA\WLFFVZYU")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "CSMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "3.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "60R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = "12MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency Stability"; Value = "30ppm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency Tolerance"; Value = "20ppm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.051inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Load Capacitance"; Value = "18pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Frequency"; Value = "12 MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "ABM3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series Resistance"; Value = "60R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20ppm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.126inch"; VariantName = "[No Variations]"
+Added Component: Designator=U18(ESD_PCMF2USB3SZ)
+Add component (AddParameter): Name = "Category"; Value = "Common Mode Chokes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/2043701.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/2043701.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-62320956.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-62320956.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://assets.nexperia.com/documents/data-sheet/PCMFXUSB3S_SER.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://assets.nexperia.com/documents/data-sheet/PCMFXUSB3S_SER.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "http://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "http://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "http://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "http://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "http://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "http://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=LKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=LKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "https://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-137234894.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "https://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-137234894.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PCMF2USB3SZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.72, 10=0.62, 100=0.4295, 500=0.35888, 1000=0.30542, 2000=0.27202 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "45981"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1727-2509-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CLKOUT2 Pin=J5-14
+Added Pin To Net: NetName=I2C2_SCL Pin=J5-16
+Added Pin To Net: NetName=I2C2_SDA Pin=J5-17
+Added Pin To Net: NetName=CLKOUT1 Pin=J5-19
+Added Pin To Net: NetName=CLKOUT2 Pin=J6-14
+Added Pin To Net: NetName=I2C2_SCL Pin=J6-16
+Added Pin To Net: NetName=I2C2_SDA Pin=J6-17
+Added Pin To Net: NetName=CLKOUT1 Pin=J6-19
+Added Pin To Net: NetName=CSI_nRST_R Pin=U1-A8
+Added Pin To Net: NetName=SLASEL1_R Pin=U1-AD20
+Added Pin To Net: NetName=SLASEL2_R Pin=U1-AE20
+Added Pin To Net: NetName=CSI_PWDN_R Pin=U1-B8
+Added Pin To Net: NetName=GND Pin=U18-B1
+Added Pin To Net: NetName=GND Pin=U18-B2
+Added Pin To Net: NetName=NetC218_2 Pin=C218-2
+Added Pin To Net: NetName=NetC218_2 Pin=C219-2
+Added Pin To Net: NetName=NetC218_2 Pin=C220-2
+Added Pin To Net: NetName=NetC218_2 Pin=C221-2
+Added Pin To Net: NetName=NetC218_2 Pin=U25-12
+Added Pin To Net: NetName=NetC218_2 Pin=U25-37
+Added Pin To Net: NetName=NetC218_2 Pin=U25-49
+Added Pin To Net: NetName=NetC218_2 Pin=U25-64
+Added Net: Name=NetC218_2
+Add Net: Net with name "SSRX1_N" already exists
+Add Net: Net with name "SSRX1_P" already exists
+Add Net: Net with name "SSRX2_N" already exists
+Add Net: Net with name "SSRX2_P" already exists
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component U18 PCMF2USB3SZ

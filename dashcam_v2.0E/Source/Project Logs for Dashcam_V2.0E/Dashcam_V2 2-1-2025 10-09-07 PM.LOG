@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=R144-1
+Removed Pin From Net: NetName=BOOT_MODE2 Pin=R144-2
+Removed Pin From Net: NetName=GND Pin=R145-1
+Removed Pin From Net: NetName=BOOT_MODE3 Pin=R145-2
+Removed Member From Class: ClassName=U_DBG BOOT_CONF Member=R144
+Removed Member From Class: ClassName=U_DBG BOOT_CONF Member=R145
+Add Net: Net with name "SSRX1_N" already exists
+Add Net: Net with name "SSRX1_P" already exists
+Add Net: Net with name "SSRX2_N" already exists
+Add Net: Net with name "SSRX2_P" already exists
+Add Class: Class already exists: Designator
