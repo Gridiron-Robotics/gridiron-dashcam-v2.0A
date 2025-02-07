@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=SSTX2_N Pin=U15-A1
+Removed Pin From Net: NetName=SSTX2_P Pin=U15-A2
+Removed Pin From Net: NetName=SS_TX2_N Pin=U15-C1
+Removed Pin From Net: NetName=SS_TX2_P Pin=U15-C2
+Removed Pin From Net: NetName=SSRX1_P Pin=U17-A1
+Removed Pin From Net: NetName=SSRX1_N Pin=U17-A2
+Removed Pin From Net: NetName=SS_RX1_P Pin=U17-C1
+Removed Pin From Net: NetName=SS_RX1_N Pin=U17-C2
+Added Pin To Net: NetName=SSRX1_N Pin=U15-A1
+Added Pin To Net: NetName=SSRX1_P Pin=U15-A2
+Added Pin To Net: NetName=SS_RX1_N Pin=U15-C1
+Added Pin To Net: NetName=SS_RX1_P Pin=U15-C2
+Added Pin To Net: NetName=SSTX2_P Pin=U17-A1
+Added Pin To Net: NetName=SSTX2_N Pin=U17-A2
+Added Pin To Net: NetName=SS_TX2_P Pin=U17-C1
+Added Pin To Net: NetName=SS_TX2_N Pin=U17-C2
+Change Net Name : Old Net Name=NetJ1_A2 New Net Name=USB2_TX1_P
+Change Net Name : Old Net Name=NetJ1_A3 New Net Name=USB2_TX1_N
+Change Net Name : Old Net Name=NetJ1_A10 New Net Name=USB2_RX2_N
+Change Net Name : Old Net Name=NetJ1_A11 New Net Name=USB2_RX2_P
+Change Net Name : Old Net Name=NetJ1_B2 New Net Name=USB2_TX2_P
+Change Net Name : Old Net Name=NetJ1_B3 New Net Name=USB2_TX2_N
+Change Net Name : Old Net Name=NetJ1_B10 New Net Name=USB2_RX1_N
+Change Net Name : Old Net Name=NetJ1_B11 New Net Name=USB2_RX1_P
+Add Class: Class already exists: Designator
+Added Differential Pair: Name=USB2_RX1
+Added Differential Pair: Name=USB2_RX2
+Added Differential Pair: Name=USB2_TX1
+Added Differential Pair: Name=USB2_TX2
+Added Member To Class: ClassName=Z90 Member=USB2_RX1
+Added Member To Class: ClassName=Z90 Member=USB2_RX2
+Added Member To Class: ClassName=Z90 Member=USB2_TX1
+Added Member To Class: ClassName=Z90 Member=USB2_TX2
