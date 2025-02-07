@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=NetC139_1 Pin=J1-A2
+Removed Pin From Net: NetName=NetC140_1 Pin=J1-A3
+Removed Pin From Net: NetName=NetC141_1 Pin=J1-B2
+Removed Pin From Net: NetName=NetC142_1 Pin=J1-B3
+Removed Pin From Net: NetName=NetJ1_A10 Pin=U7-12
+Removed Pin From Net: NetName=NetJ1_A11 Pin=U7-13
+Removed Pin From Net: NetName=NetJ1_B10 Pin=U7-16
+Removed Pin From Net: NetName=NetJ1_B11 Pin=U7-17
+Added Component: Designator=H1(PTH_3.2X5)
+Added Component: Designator=H2(PTH_3.2X5)
+Added Component: Designator=H3(PTH_3.2X5)
+Added Component: Designator=H4(PTH_3.2X5)
+Added Component: Designator=U27(ESD_PCMF2USB3SZ)
+Add component (AddParameter): Name = "Category"; Value = "Common Mode Chokes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/2043701.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/2043701.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-62320956.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-62320956.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://assets.nexperia.com/documents/data-sheet/PCMFXUSB3S_SER.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://assets.nexperia.com/documents/data-sheet/PCMFXUSB3S_SER.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "http://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "http://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "http://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "http://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "http://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "http://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=LKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-97399282.pdf?src-supplier=LKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "https://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-137234894.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "https://datasheet.octopart.com/PCMF2USB3SZ-Nexperia-datasheet-137234894.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PCMF2USB3SZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.72, 10=0.62, 100=0.4295, 500=0.35888, 1000=0.30542, 2000=0.27202 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "45981"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1727-2509-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_A11 Pin=U18-A3
+Added Pin To Net: NetName=NetJ1_A10 Pin=U18-A4
+Added Pin To Net: NetName=NetC141_1 Pin=U18-C1
+Added Pin To Net: NetName=NetC142_1 Pin=U18-C2
+Added Pin To Net: NetName=NetJ1_B11 Pin=U27-A3
+Added Pin To Net: NetName=NetJ1_B10 Pin=U27-A4
+Added Pin To Net: NetName=GND Pin=U27-B1
+Added Pin To Net: NetName=GND Pin=U27-B2
+Added Pin To Net: NetName=NetC139_1 Pin=U27-C1
+Added Pin To Net: NetName=NetC140_1 Pin=U27-C2
+Change Net Name : Old Net Name=NetR57_1 New Net Name=VDD_RES
+Added Pin To Net: NetName=NetJ1_A2 Pin=J1-A2
+Added Pin To Net: NetName=NetJ1_A2 Pin=U27-A1
+Added Net: Name=NetJ1_A2
+Added Pin To Net: NetName=NetJ1_A3 Pin=J1-A3
+Added Pin To Net: NetName=NetJ1_A3 Pin=U27-A2
+Added Net: Name=NetJ1_A3
+Added Pin To Net: NetName=NetJ1_B2 Pin=J1-B2
+Added Pin To Net: NetName=NetJ1_B2 Pin=U18-A1
+Added Net: Name=NetJ1_B2
+Added Pin To Net: NetName=NetJ1_B3 Pin=J1-B3
+Added Pin To Net: NetName=NetJ1_B3 Pin=U18-A2
+Added Net: Name=NetJ1_B3
+Added Pin To Net: NetName=NetU7_12 Pin=U7-12
+Added Pin To Net: NetName=NetU7_12 Pin=U18-C4
+Added Net: Name=NetU7_12
+Added Pin To Net: NetName=NetU7_13 Pin=U7-13
+Added Pin To Net: NetName=NetU7_13 Pin=U18-C3
+Added Net: Name=NetU7_13
+Added Pin To Net: NetName=NetU7_16 Pin=U7-16
+Added Pin To Net: NetName=NetU7_16 Pin=U27-C4
+Added Net: Name=NetU7_16
+Added Pin To Net: NetName=NetU7_17 Pin=U7-17
+Added Pin To Net: NetName=NetU7_17 Pin=U27-C3
+Added Net: Name=NetU7_17
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=Designator Member=Component U27 PCMF2USB3SZ
