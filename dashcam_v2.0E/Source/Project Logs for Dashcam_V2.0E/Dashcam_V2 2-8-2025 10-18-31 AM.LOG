@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=TP? NewDesignator=TP5
+Change Component Designator: OldDesignator=TP? NewDesignator=TP31
+Change Component Designator: OldDesignator=TP? NewDesignator=TP32
+Change Component Designator: OldDesignator=TP? NewDesignator=TP33
+Change Net Name : Old Net Name=NetD25_2 New Net Name=DBG_USB_D_N
+Change Net Name : Old Net Name=NetD26_2 New Net Name=DBG_USB_D_P
+Added Differential Pair: Name=DBG_USB_D
+Added Member To Class: ClassName=Z90 Member=DBG_USB_D
