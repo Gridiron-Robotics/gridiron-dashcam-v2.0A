@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=USB_GPS_P Pin=R127-1
+Removed Pin From Net: NetName=USB_GPS_N Pin=R128-1
+Removed Member From Class: ClassName=U_GNSS_GPS_IMU Member=R127
+Removed Member From Class: ClassName=U_GNSS_GPS_IMU Member=R128
+Added Pin To Net: NetName=USB_GPS_N Pin=U20-5
+Added Pin To Net: NetName=USB_GPS_P Pin=U20-6
+Add Class: Class already exists: Designator
