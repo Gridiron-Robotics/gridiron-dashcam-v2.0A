@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Pin From Net: NetName=JTAG_MOD Pin=R7-2
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=JTAG_TCK Pin=R8-2
+Removed Pin From Net: NetName=JTAG_TDI Pin=TP6-1
+Removed Pin From Net: NetName=JTAG_TMS Pin=TP7-1
+Removed Pin From Net: NetName=JTAG_TCK Pin=TP8-1
+Removed Pin From Net: NetName=JTAG_TDO Pin=TP9-1
+Removed Pin From Net: NetName=JTAG_MOD Pin=TP10-1
+Removed Pin From Net: NetName=NVCC_DRAM_1V1 Pin=U1-R7
+Added Pin To Net: NetName=GND Pin=U1-R7
+Added Pin To Net: NetName=NVCC_DRAM_1V1 Pin=U2-AA10
+Add Class: Class already exists: Designator
