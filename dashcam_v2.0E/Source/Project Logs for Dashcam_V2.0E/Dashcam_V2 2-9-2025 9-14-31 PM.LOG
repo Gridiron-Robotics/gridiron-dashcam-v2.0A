@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VDD_1V8 Pin=FB10-1
+Removed Pin From Net: NetName=GND Pin=U1-R7
+Removed Pin From Net: NetName=NVCC_DRAM_1V1 Pin=U2-AA10
+Removed Member From Class: ClassName=U_GNSS_GPS_IMU Member=FB10
+Added Pin To Net: NetName=VDD_1V8 Pin=C193-2
+Added Pin To Net: NetName=VDD_1V8 Pin=C194-2
+Added Pin To Net: NetName=VDD_1V8 Pin=R132-2
+Added Pin To Net: NetName=VDD_1V8 Pin=R133-2
+Added Pin To Net: NetName=GND Pin=U1-R7
+Added Pin To Net: NetName=NVCC_DRAM_1V1 Pin=U1-R7
+Added Pin To Net: NetName=VDD_1V8 Pin=U21-8
+Added Pin To Net: NetName=VDD_1V8 Pin=U21-13
+Added Pin To Net: NetName=VDD_1V8 Pin=U21-22
+Add Class: Class already exists: Designator
