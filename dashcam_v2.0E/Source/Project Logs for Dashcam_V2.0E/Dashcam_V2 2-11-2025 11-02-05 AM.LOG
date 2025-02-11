@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NVCC_SD2 Pin=R22-1
+Removed Pin From Net: NetName=SD2_DATA0 Pin=R22-2
+Removed Pin From Net: NetName=NVCC_SD2 Pin=R23-1
+Removed Pin From Net: NetName=SD2_CMD Pin=R23-2
