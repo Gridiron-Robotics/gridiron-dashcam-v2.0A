@@ -107,23 +107,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=Dashcam_V2.0E.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RQORXKDH
-
-[Document5]
 DocumentPath=Dashcam CPU_V2.0E.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=CPU Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RTKTRRLN
 
-[Document7]
+[Document6]
 DocumentPath=CPU LPDDR4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TEOWYMKB
 
-[Document8]
+[Document7]
 DocumentPath=CPU PHY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KVMJOMDW
 
-[Document9]
+[Document8]
 DocumentPath=CPU MISC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OCVLQPGF
 
-[Document10]
+[Document9]
 DocumentPath=CPU IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ITBOJRJP
 
-[Document11]
+[Document10]
 DocumentPath=iMX 8M PLUS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OJSXWNOS
 
-[Document12]
+[Document11]
 DocumentPath=PMIC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JSZERXHI
 
-[Document13]
+[Document12]
 DocumentPath=LPDDR4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,7 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WSCTICQU
 
-[Document14]
+[Document13]
 DocumentPath=eMMC FLASH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -293,7 +276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OUMPEIVQ
 
-[Document15]
+[Document14]
 DocumentPath=PERIPHERALS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -310,7 +293,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QKRRYIKT
 
-[Document16]
+[Document15]
 DocumentPath=Power TREE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -327,7 +310,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FGHLLTEJ
 
-[Document17]
+[Document16]
 DocumentPath=Converter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -344,7 +327,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GHRJBUQH
 
-[Document18]
+[Document17]
 DocumentPath=CPU IO.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -361,7 +344,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document18]
 DocumentPath=CPU PHY.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -378,7 +361,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document19]
 DocumentPath=CPU LPDDR4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -395,7 +378,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document20]
 DocumentPath=LPDDR4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -412,7 +395,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document21]
 DocumentPath=eMMC FLASH.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -429,7 +412,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document22]
 DocumentPath=PERIPHERALS.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -446,7 +429,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document23]
 DocumentPath=Dashcam CPU_V2.0E.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -463,7 +446,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KDAOQLHT
 
-[Document25]
+[Document24]
 DocumentPath=TYPEC_PWR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -480,7 +463,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SCRFGAJB
 
-[Document26]
+[Document25]
 DocumentPath=TYPEC_DATA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -497,7 +480,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QOAENVQM
 
-[Document27]
+[Document26]
 DocumentPath=TYPEC_DATA.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -514,7 +497,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document27]
 DocumentPath=uSD CARD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -531,7 +514,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HSZSSLJU
 
-[Document29]
+[Document28]
 DocumentPath=uSD CARD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -548,7 +531,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document29]
 DocumentPath=GNSS_GPS_IMU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -565,7 +548,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VYIIJRSF
 
-[Document31]
+[Document30]
 DocumentPath=WIFI_BLE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -582,7 +565,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KHZKDIKE
 
-[Document32]
+[Document31]
 DocumentPath=DBG BOOT_CONF.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -599,7 +582,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GPTDHKAW
 
-[Document33]
+[Document32]
 DocumentPath=CAMERA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -616,7 +599,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PEYZKAHW
 
-[Document34]
+[Document33]
 DocumentPath=CAMERA.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -633,7 +616,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document34]
 DocumentPath=..\..\dashcam_v2.0E.zip
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -650,7 +633,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document35]
 DocumentPath=__Previews\CAMERA.SchDocPreview
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -667,7 +650,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document36]
 DocumentPath=__Previews\Connector A.SchDocPreview
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -684,7 +667,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document37]
 DocumentPath=__Previews\CPU IO.SchDocPreview
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -701,7 +684,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document38]
 DocumentPath=__Previews\CPU PHY.SchDocPreview
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -718,7 +701,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document39]
 DocumentPath=__Previews\Dashcam CPU_V1.0 A - Top Level.SchDocPreview
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -735,7 +718,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document40]
 DocumentPath=__Previews\GNSS_GPS_IMU.SchDocPreview
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -752,7 +735,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document41]
 DocumentPath=__Previews\iMX 8M PLUS.SchDocPreview
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -769,7 +752,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document42]
 DocumentPath=History\CAMERA.~(3).SchDoc.Zip
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -786,7 +769,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document43]
 DocumentPath=History\Connector A.~(42).SchDoc.Zip
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -803,7 +786,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
+[Document44]
 DocumentPath=History\Connector A.~(43).SchDoc.Zip
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -820,7 +803,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document45]
 DocumentPath=History\Connector A.~(44).SchDoc.Zip
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -837,7 +820,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document46]
 DocumentPath=History\CPU IO.~(2).SchDoc.Zip
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -854,7 +837,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document47]
 DocumentPath=History\CPU IO.~(3).SchDoc.Zip
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -871,7 +854,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document49]
+[Document48]
 DocumentPath=History\CPU PHY.~(1).SchDoc.Zip
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -888,7 +871,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document50]
+[Document49]
 DocumentPath=History\CPU PHY.~(2).SchDoc.Zip
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -905,7 +888,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document51]
+[Document50]
 DocumentPath=History\CPU PHY.~(3).SchDoc.Zip
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -922,7 +905,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document52]
+[Document51]
 DocumentPath=History\Dashcam CPU_V1.0 A - Top Level.~(13).SchDoc.Zip
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -939,7 +922,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document53]
+[Document52]
 DocumentPath=History\Dashcam CPU_V1.0 A - Top Level.~(14).SchDoc.Zip
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -956,7 +939,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document54]
+[Document53]
 DocumentPath=History\Dashcam CPU_V1.0 A - Top Level.~(15).SchDoc.Zip
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -973,7 +956,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document55]
+[Document54]
 DocumentPath=History\Dashcam_V2.0E.~(18).PrjPcb.Zip
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -990,7 +973,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document56]
+[Document55]
 DocumentPath=History\GNSS_GPS_IMU.~(23).SchDoc.Zip
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1007,7 +990,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document57]
+[Document56]
 DocumentPath=History\iMX 8M PLUS.~(4).SchDoc.Zip
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1024,7 +1007,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document58]
+[Document57]
 DocumentPath=TYPEC_PWR.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1041,7 +1024,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document59]
+[Document58]
 DocumentPath=Electronic Devices_LIB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1058,7 +1041,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JBKQXRIN
 
-[Document60]
+[Document59]
 DocumentPath=Electronic Devices_LIB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1074,6 +1057,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VFHAIIPB
+
+[Document60]
+DocumentPath=Dashcam_V2.0E.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QLTXGMFB
 
 [ProjectVariant1]
 UniqueId=90B914CC-D9E1-4771-9BED-32D75FD6A92A
