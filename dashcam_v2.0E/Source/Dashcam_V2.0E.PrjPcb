@@ -90,7 +90,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MMELTDYF
 
 [Document3]
-DocumentPath=Dashcam CPU_V1.0 A.OutJob
+DocumentPath=Dashcam_V2.0E.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -702,7 +702,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document39]
-DocumentPath=__Previews\Dashcam CPU_V1.0 A - Top Level.SchDocPreview
+DocumentPath=__Previews\Dashcam_V2.0E - Top Level.SchDocPreview
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1184,6 +1184,10 @@ DocumentPath=..\Manufacturing\Assembly\BOM\Dashcam CPU_V1.0 A_A_2024-05-07.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument26]
+DocumentPath=Project Outputs for Dashcam_V2.0E\Design Rule Check - Dashcam_V2.html
+DItemRevisionGUID=
+
+[GeneratedDocument27]
 DocumentPath=Project Outputs for Dashcam CPU_V1.0 A\Design Rule Check - Dashcam CPU_V1.html
 DItemRevisionGUID=
 
