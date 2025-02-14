@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\gridiron-dashcam-v2.0A\dashcam_v2.0E\Source\Dashcam_V2.0E.PcbDoc
-Date     : 2/14/2025
-Time     : 12:59:40 AM
+PCB File : C:\PCB_Projects\gridiron-dashcam-v2.0A\dashcam_v2.0E\Source\Dashcam_V2.0E.PcbDoc
+Date     : 2/13/2025
+Time     : 6:48:12 PM
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -237,17 +237,7 @@ Processing Rule : Matched Lengths(Tolerance=3.937mil) (InNetClass('ADD_CMD_CTRLB
 Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=3.937mil) (InDifferentialPairClass('Z100'))
-   Violation between Matched Net Lengths: Between Net CSI1_CK_N And Net CSI1_CK_P Actual Difference against CSI1_CK_P is: 19.664mil, Tolerance : 3.937mil. 
-   Violation between Matched Net Lengths: Between Net CSI1_D0_N And Net CSI1_D0_P Actual Difference against CSI1_D0_P is: 52.479mil, Tolerance : 3.937mil. 
-   Violation between Matched Net Lengths: Between Net CSI1_D1_N And Net CSI1_D1_P Actual Difference against CSI1_D1_P is: 52.912mil, Tolerance : 3.937mil. 
-   Violation between Matched Net Lengths: Between Net CSI1_D2_N And Net CSI1_D2_P Actual Difference against CSI1_D2_P is: 52.752mil, Tolerance : 3.937mil. 
-   Violation between Matched Net Lengths: Between Net CSI1_D3_N And Net CSI1_D3_P Actual Difference against CSI1_D3_P is: 22.6mil, Tolerance : 3.937mil. 
-   Violation between Matched Net Lengths: Between Net CSI2_CK_N And Net CSI2_CK_P Actual Difference against CSI2_CK_P is: 21.396mil, Tolerance : 3.937mil. 
-   Violation between Matched Net Lengths: Between Net CSI2_D0_N And Net CSI2_D0_P Actual Difference against CSI2_D0_P is: 23.792mil, Tolerance : 3.937mil. 
-   Violation between Matched Net Lengths: Between Net CSI2_D1_N And Net CSI2_D1_P Actual Difference against CSI2_D1_P is: 23.922mil, Tolerance : 3.937mil. 
-   Violation between Matched Net Lengths: Between Net CSI2_D2_N And Net CSI2_D2_P Actual Difference against CSI2_D2_P is: 21.892mil, Tolerance : 3.937mil. 
-   Violation between Matched Net Lengths: Between Net CSI2_D3_N And Net CSI2_D3_P Actual Difference against CSI2_D3_P is: 25.011mil, Tolerance : 3.937mil. 
-Rule Violations :10
+Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=3.937mil) (InNetClass('eMMC'))
    Violation between Matched Net Lengths: Between Net SD3_CLK And Net SD3_CMD Length:1090.895mil is not within 3.937mil tolerance of Length:1167.795mil (72.964mil short) 
@@ -284,16 +274,6 @@ Processing Rule : Matched Lengths(Tolerance=3.937mil) (InNetClass('ADD_CMD_CTRLB
 Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=3.937mil) (InDifferentialPairClass('All Differential Pairs'))
-   Violation between Matched Net Lengths: Between Net CSI1_CK_N And Net CSI1_CK_P Actual Difference against CSI1_CK_P is: 19.664mil, Tolerance : 3.937mil. 
-   Violation between Matched Net Lengths: Between Net CSI1_D0_N And Net CSI1_D0_P Actual Difference against CSI1_D0_P is: 52.479mil, Tolerance : 3.937mil. 
-   Violation between Matched Net Lengths: Between Net CSI1_D1_N And Net CSI1_D1_P Actual Difference against CSI1_D1_P is: 52.912mil, Tolerance : 3.937mil. 
-   Violation between Matched Net Lengths: Between Net CSI1_D2_N And Net CSI1_D2_P Actual Difference against CSI1_D2_P is: 52.752mil, Tolerance : 3.937mil. 
-   Violation between Matched Net Lengths: Between Net CSI1_D3_N And Net CSI1_D3_P Actual Difference against CSI1_D3_P is: 22.6mil, Tolerance : 3.937mil. 
-   Violation between Matched Net Lengths: Between Net CSI2_CK_N And Net CSI2_CK_P Actual Difference against CSI2_CK_P is: 21.396mil, Tolerance : 3.937mil. 
-   Violation between Matched Net Lengths: Between Net CSI2_D0_N And Net CSI2_D0_P Actual Difference against CSI2_D0_P is: 23.792mil, Tolerance : 3.937mil. 
-   Violation between Matched Net Lengths: Between Net CSI2_D1_N And Net CSI2_D1_P Actual Difference against CSI2_D1_P is: 23.922mil, Tolerance : 3.937mil. 
-   Violation between Matched Net Lengths: Between Net CSI2_D2_N And Net CSI2_D2_P Actual Difference against CSI2_D2_P is: 21.892mil, Tolerance : 3.937mil. 
-   Violation between Matched Net Lengths: Between Net CSI2_D3_N And Net CSI2_D3_P Actual Difference against CSI2_D3_P is: 25.011mil, Tolerance : 3.937mil. 
    Violation between Matched Net Lengths: Between Net DBG_USB_D_N And Net DBG_USB_D_P Actual Difference against DBG_USB_D_P is: 18.13mil, Tolerance : 3.937mil. 
    Violation between Matched Net Lengths: Between Net DRAM_SDQS0_A_N And Net DRAM_SDQS0_A_P Actual Difference against DRAM_SDQS0_A_P is: 5.153mil, Tolerance : 3.937mil. 
    Violation between Matched Net Lengths: Between Net DRAM_SDQS1_B_N And Net DRAM_SDQS1_B_P Actual Difference against DRAM_SDQS1_B_P is: 12.109mil, Tolerance : 3.937mil. 
@@ -311,7 +291,7 @@ Processing Rule : Matched Lengths(Tolerance=3.937mil) (InDifferentialPairClass('
    Violation between Matched Net Lengths: Between Net USB2_TX_1_N And Net USB2_TX_1_P Actual Difference against USB2_TX_1_P is: 25.827mil, Tolerance : 3.937mil. 
    Violation between Matched Net Lengths: Between Net USB2_TX_N And Net USB2_TX_P Actual Difference against USB2_TX_P is: 62.999mil, Tolerance : 3.937mil. 
    Violation between Matched Net Lengths: Between Net USB2_TX1_N And Net USB2_TX1_P Actual Difference against USB2_TX1_P is: 6.359mil, Tolerance : 3.937mil. 
-Rule Violations :27
+Rule Violations :17
 
 Processing Rule : Matched Lengths(Tolerance=3.937mil) (InNetClass('ADD_CMD_CTRLA_G1'))
 Rule Violations :0
@@ -329,6 +309,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=236.22mil) (Prefered=157.48m
 Rule Violations :0
 
 
-Violations Detected : 238
+Violations Detected : 218
 Waived Violations : 0
-Time Elapsed        : 00:00:05
+Time Elapsed        : 00:00:01
