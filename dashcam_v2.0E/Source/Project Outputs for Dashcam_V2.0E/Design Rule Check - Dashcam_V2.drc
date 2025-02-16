@@ -1,33 +1,39 @@
 Protel Design System Design Rule Check
-PCB File : C:\PCB_Projects\gridiron-dashcam-v2.0A\dashcam_v2.0E\Source\Dashcam_V2.0E.PcbDoc
-Date     : 2/13/2025
-Time     : 7:28:18 PM
-
-Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
-   Violation between Clearance Constraint: (1.016mil < 3mil) Between Via (3374mil,1755mil) from TOP to BOTTOM And Via (3374mil,1772mil) from TOP to BOTTOM 
-Rule Violations :1
+PCB File : C:\gridiron-dashcam-v2.0A\dashcam_v2.0E\Source\Dashcam_V2.0E.PcbDoc
+Date     : 2/16/2025
+Time     : 3:58:59 PM
 
 Processing Rule : Clearance Constraint (Gap=6mil) (OnLayer('TOP')),(InBGA)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net USB1_D1_P Between Pad J3-B6(3338.583mil,1783.465mil) on TOP And Via (3354mil,1783mil) from TOP to BOTTOM 
-   Violation between Un-Routed Net Constraint: Net USB1_D1_N Between Pad J3-B7(3338.583mil,1744.095mil) on TOP And Via (3354mil,1744mil) from TOP to BOTTOM 
-Rule Violations :2
-
-Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=6mil) (Max=80mil) (Preferred=10mil) (InNetClass('POWER'))
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=3mil) (Max=80mil) (Preferred=10mil) (InNetClass('BANK_A') OR InNetClass('BANK_B') OR InNetClass('DATA_A') OR InNetClass('DATA_B') OR InNetClass('Z50'))
 Rule Violations :0
 
+Processing Rule : Width Constraint (Min=3mil) (Max=80mil) (Preferred=10mil) (InNetClass('MICROSD1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=80mil) (Preferred=10mil) (InNetClass('POWER'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3mil) (Max=80mil) (Preferred=10mil) (InNetClass('eMMC'))
+Rule Violations :0
+
 Processing Rule : Width Constraint (Min=3mil) (Max=80mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3mil) (Max=80mil) (Preferred=10mil) (InNetClass('MICROSD'))
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (IsVia)
@@ -40,8 +46,7 @@ Processing Rule : Hole Size Constraint (Min=5mil) (Max=100mil) (Disabled)(All)
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
-   Violation between Hole To Hole Clearance Constraint: (9mil < 10mil) Between Via (3374mil,1755mil) from TOP to BOTTOM And Via (3374mil,1772mil) from TOP to BOTTOM 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
    Violation between Minimum Solder Mask Sliver Constraint: (0.882mil < 1mil) Between Pad C15-1(1396.701mil,1310.559mil) on BOTTOM And Pad C23-1(1399.142mil,1291.669mil) on BOTTOM [Bottom Solder] Mask Sliver [0.882mil]
@@ -135,59 +140,53 @@ Processing Rule : Silk to Silk (Clearance=1mil) (All),(All)
 Rule Violations :40
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
-   Violation between Net Antennae: Track (1740.158mil,808.661mil)(1740.158mil,866.838mil) on BOTTOM 
-   Violation between Net Antennae: Track (1755.701mil,808.866mil)(1755.701mil,836.551mil) on BOTTOM 
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Board Clearance Constraint (Gap=0mil) ((InNet('GND')AND IsPolygon))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=3.937mil) (InDifferentialPairClass('Z90'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('eMMC'))
 Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=3.937mil) (InNetClass('ADD_CMD_CTRLB_G3'))
 Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=3.937mil) (InNetClass('ADD_CMD_CTRLB_G2'))
-Rule Violations :0
-
 Processing Rule : Matched Lengths(Tolerance=3.937mil) (InDifferentialPairClass('Z100'))
 Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=3.937mil) (InNetClass('eMMC'))
-   Violation between Matched Net Lengths: Between Net SD3_CLK And Net SD3_CMD Length:1090.895mil is not within 3.937mil tolerance of Length:1167.795mil (72.964mil short) 
-   Violation between Matched Net Lengths: Between Net SD3_CMD And Net SD3_DATA0 Length:1084.867mil is not within 3.937mil tolerance of Length:1167.795mil (78.991mil short) 
-   Violation between Matched Net Lengths: Between Net SD3_CMD And Net SD3_DATA1 Length:1090.711mil is not within 3.937mil tolerance of Length:1167.795mil (73.148mil short) 
-   Violation between Matched Net Lengths: Between Net SD3_CMD And Net SD3_DATA2 Length:1093.209mil is not within 3.937mil tolerance of Length:1167.795mil (70.649mil short) 
-   Violation between Matched Net Lengths: Between Net SD3_CMD And Net SD3_DATA3 Length:1093.207mil is not within 3.937mil tolerance of Length:1167.795mil (70.651mil short) 
-   Violation between Matched Net Lengths: Between Net SD3_CMD And Net SD3_DATA4 Length:1093.773mil is not within 3.937mil tolerance of Length:1167.795mil (70.085mil short) 
-   Violation between Matched Net Lengths: Between Net SD3_CMD And Net SD3_DATA5 Length:1090.737mil is not within 3.937mil tolerance of Length:1167.795mil (73.121mil short) 
-   Violation between Matched Net Lengths: Between Net SD3_CMD And Net SD3_DATA6 Length:1093.668mil is not within 3.937mil tolerance of Length:1167.795mil (70.19mil short) 
-   Violation between Matched Net Lengths: Between Net SD3_CMD And Net SD3_DATA7 Length:1094.575mil is not within 3.937mil tolerance of Length:1167.795mil (69.283mil short) 
-   Violation between Matched Net Lengths: Between Net SD3_CMD And Net SD3_STROBE Length:1093.668mil is not within 3.937mil tolerance of Length:1167.795mil (70.19mil short) 
-Rule Violations :10
-
-Processing Rule : Matched Lengths(Tolerance=3.937mil) (InDifferentialPairClass('Z90'))
-   Violation between Matched Net Lengths: Between Net SS_TX1_N And Net SS_TX1_P Actual Difference against SS_TX1_P is: 4.874mil, Tolerance : 3.937mil. 
-   Violation between Matched Net Lengths: Between Net USB1_D1_N And Net USB1_D1_P Actual Difference against USB1_D1_P is: 27.454mil, Tolerance : 3.937mil. 
-   Violation between Matched Net Lengths: Between Net USB2_D_CN_N And Net USB2_D_CN_P Actual Difference against USB2_D_CN_P is: 160.637mil, Tolerance : 3.937mil. 
-Rule Violations :3
-
-Processing Rule : Matched Lengths(Tolerance=3.937mil) (InNetClass('ADD_CMD_CTRLB_G1'))
+Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('CSI1_Z100'))
 Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=3.937mil) (InDifferentialPairClass('All Differential Pairs'))
-   Violation between Matched Net Lengths: Between Net DRAM_SDQS0_A_N And Net DRAM_SDQS0_A_P Actual Difference against DRAM_SDQS0_A_P is: 5.153mil, Tolerance : 3.937mil. 
-   Violation between Matched Net Lengths: Between Net DRAM_SDQS1_B_N And Net DRAM_SDQS1_B_P Actual Difference against DRAM_SDQS1_B_P is: 12.109mil, Tolerance : 3.937mil. 
-   Violation between Matched Net Lengths: Between Net SS_TX1_N And Net SS_TX1_P Actual Difference against SS_TX1_P is: 4.874mil, Tolerance : 3.937mil. 
-   Violation between Matched Net Lengths: Between Net USB1_D1_N And Net USB1_D1_P Actual Difference against USB1_D1_P is: 27.454mil, Tolerance : 3.937mil. 
-   Violation between Matched Net Lengths: Between Net USB2_D_CN_N And Net USB2_D_CN_P Actual Difference against USB2_D_CN_P is: 160.637mil, Tolerance : 3.937mil. 
-Rule Violations :5
+Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('CSI2_Z100'))
+Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=3.937mil) (InNetClass('ADD_CMD_CTRLA_G1'))
+Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('MICROSD'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('MICROSD1'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=3.937mil) (InNetClass('ADD_CMD_CTRLA_G2'))
 Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=3.937mil) (InNetClass('ADD_CMD_CTRLA_G3'))
 Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=3.937mil) (InNetClass('ADD_CMD_CTRLA_G2'))
+Processing Rule : Matched Lengths(Tolerance=3.937mil) (InDifferentialPairClass('All Differential Pairs'))
+   Violation between Matched Net Lengths: Between Net DRAM_SDQS0_A_N And Net DRAM_SDQS0_A_P Actual Difference against DRAM_SDQS0_A_P is: 5.153mil, Tolerance : 3.937mil. 
+   Violation between Matched Net Lengths: Between Net DRAM_SDQS1_B_N And Net DRAM_SDQS1_B_P Actual Difference against DRAM_SDQS1_B_P is: 12.109mil, Tolerance : 3.937mil. 
+Rule Violations :2
+
+Processing Rule : Matched Lengths(Tolerance=3.937mil) (InNetClass('ADD_CMD_CTRLA_G1'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=3.937mil) (InNetClass('ADD_CMD_CTRLB_G2'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=3.937mil) (InNetClass('ADD_CMD_CTRLB_G1'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
@@ -197,6 +196,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=236.22mil) (Prefered=157.48m
 Rule Violations :0
 
 
-Violations Detected : 106
+Violations Detected : 84
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:04
