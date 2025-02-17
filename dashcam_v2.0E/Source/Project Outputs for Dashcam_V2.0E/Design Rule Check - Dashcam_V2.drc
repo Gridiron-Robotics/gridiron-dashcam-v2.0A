@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\PCB_Projects\gridiron-dashcam-v2.0A\dashcam_v2.0E\Source\Dashcam_V2.0E.PcbDoc
 Date     : 2/16/2025
-Time     : 7:11:10 PM
+Time     : 9:10:05 PM
 
 Processing Rule : Clearance Constraint (Gap=6mil) (OnLayer('TOP')),(InBGA)
 Rule Violations :0
@@ -48,96 +48,14 @@ Rule Violations :0
 Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (0.882mil < 1mil) Between Pad C15-1(1396.701mil,1310.559mil) on BOTTOM And Pad C23-1(1399.142mil,1291.669mil) on BOTTOM [Bottom Solder] Mask Sliver [0.882mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.795mil < 1mil) Between Pad C18-1(1317.15mil,1515.677mil) on BOTTOM And Pad C8-2(1298.701mil,1503.543mil) on BOTTOM [Bottom Solder] Mask Sliver [0.795mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.658mil < 1mil) Between Pad C25-2(1341.039mil,1418.677mil) on BOTTOM And Pad C31-1(1362.701mil,1426.543mil) on BOTTOM [Bottom Solder] Mask Sliver [0.658mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.992mil < 1mil) Between Pad C43-1(1459.142mil,1503.669mil) on BOTTOM And Pad C44-1(1478.142mil,1503.669mil) on BOTTOM [Bottom Solder] Mask Sliver [0.992mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.992mil < 1mil) Between Pad C43-2(1459.142mil,1477.685mil) on BOTTOM And Pad C44-2(1478.142mil,1477.685mil) on BOTTOM [Bottom Solder] Mask Sliver [0.992mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.992mil < 1mil) Between Pad C55-2(1279.701mil,1495.559mil) on BOTTOM And Pad C8-2(1298.701mil,1503.543mil) on BOTTOM [Bottom Solder] Mask Sliver [0.992mil]
-Rule Violations :6
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=1mil) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad C133-2(1516.732mil,2261.024mil) on TOP And Text "FB1" (1538.247mil,2245.492mil) on Top Overlay [Top Overlay] to [Top solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad C137-1(3027.559mil,905.512mil) on BOTTOM And Text "C138" (2983.155mil,910.233mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.107mil < 1mil) Between Pad C138-1(3098.425mil,925.197mil) on BOTTOM And Text "C137" (3091.36mil,914.483mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.107mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad C145-1(3456.693mil,1023.622mil) on BOTTOM And Text "U9" (3410.672mil,1051.793mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad C145-2(3425.197mil,1023.622mil) on BOTTOM And Text "U9" (3410.672mil,1051.793mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad C153-2(3192.913mil,1465.354mil) on BOTTOM And Text "Q3" (3224.529mil,1463.474mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad C184-2(1011.417mil,600mil) on BOTTOM And Text "C185" (1045.797mil,582.851mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad C225-2(2484.252mil,774.016mil) on BOTTOM And Text "Y5" (2480.529mil,764.474mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad J1-SH2(3493.307mil,1294.882mil) on Multi-Layer And Text "R61" (3448.235mil,1323.471mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad J1-SH4(3307.874mil,1295.276mil) on Multi-Layer And Text "TP30" (3321.824mil,1297.552mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad J3-SH1(3493.307mil,1587.008mil) on Multi-Layer And Text "J1" (3499.559mil,1609.813mil) on Top Overlay [Top Overlay] to [Top solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad J3-SH2(3493.307mil,1940.551mil) on Multi-Layer And Text "R67" (3498.529mil,1936.474mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad J5-SH2(1485.236mil,2385.827mil) on TOP And Text "C133" (1497.856mil,2297.107mil) on Top Overlay [Top Overlay] to [Top solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad Q2-G(2922.244mil,1330.315mil) on BOTTOM And Text "C147" (2940.529mil,1322.474mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.412mil < 1mil) Between Pad Q2-S(2947.835mil,1330.315mil) on BOTTOM And Text "C147" (2940.529mil,1322.474mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.412mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad Q2-S(2973.425mil,1330.315mil) on BOTTOM And Text "R60" (3022.529mil,1323.474mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad Q2-S(2999.016mil,1330.315mil) on BOTTOM And Text "R60" (3022.529mil,1323.474mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad R122-1(259.842mil,809.055mil) on BOTTOM And Text "C190" (320.529mil,779.474mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad R122-2(259.842mil,781.496mil) on BOTTOM And Text "C190" (320.529mil,779.474mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad R129-1(377.953mil,763.779mil) on BOTTOM And Text "C195" (392.529mil,749.474mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad R130-1(336mil,753.362mil) on BOTTOM And Text "C195" (392.529mil,749.474mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad R58-1(3360mil,792mil) on BOTTOM And Text "U8" (3375.746mil,818.455mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad R59-1(2966.535mil,1240.158mil) on BOTTOM And Text "C146" (3022.529mil,1240.474mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad R59-2(3001.969mil,1240.158mil) on BOTTOM And Text "C146" (3022.529mil,1240.474mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad R60-1(3001.968mil,1282.677mil) on BOTTOM And Text "R59" (3022.529mil,1280.474mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad R60-2(2966.535mil,1282.677mil) on BOTTOM And Text "R59" (3022.529mil,1280.474mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad R67-1(3394.685mil,1877.953mil) on BOTTOM And Text "U13" (3476.529mil,1850.474mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad R67-2(3463.583mil,1877.953mil) on BOTTOM And Text "U13" (3476.529mil,1850.474mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.907mil < 1mil) Between Pad TP44-1(2451.795mil,891.52mil) on BOTTOM And Text "C225" (2543.529mil,854.474mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.907mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad TP60-1(2999.016mil,1507.874mil) on BOTTOM And Text "Q2" (3036.529mil,1488.474mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad U13-10(3437.008mil,1742.126mil) on BOTTOM And Text "C149" (3455.529mil,1719.474mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad U13-11(3421.26mil,1742.126mil) on BOTTOM And Text "C149" (3455.529mil,1719.474mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad U13-12(3405.512mil,1742.126mil) on BOTTOM And Text "C149" (3455.529mil,1719.474mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad U13-9(3452.756mil,1742.126mil) on BOTTOM And Text "C149" (3455.529mil,1719.474mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.224mil < 1mil) Between Pad U17-A4(3244.095mil,1828.74mil) on TOP And Text "U19" (3198.125mil,1799.569mil) on Top Overlay [Top Overlay] to [Top solder] clearance [0.224mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 1mil) Between Pad U17-C4(3212.599mil,1828.74mil) on TOP And Text "U19" (3198.125mil,1799.569mil) on Top Overlay [Top Overlay] to [Top solder] clearance [0mil]
-Rule Violations :36
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=1mil) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Arc (2451.795mil,891.52mil) on Bottom Overlay And Text "C225" (2543.529mil,854.474mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Arc (2999.016mil,1507.874mil) on Bottom Overlay And Text "Q2" (3036.529mil,1488.474mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Arc (585.433mil,2137.795mil) on Bottom Overlay And Text "C11" (801.438mil,1806.956mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Arc (585.433mil,2137.795mil) on Bottom Overlay And Text "C13" (846.979mil,1863.468mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Arc (585.433mil,2137.795mil) on Bottom Overlay And Text "C14" (817.42mil,1802.291mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (0.675mil < 1mil) Between Arc (585.433mil,2137.795mil) on Bottom Overlay And Text "C29" (934.183mil,1886.976mil) on Bottom Overlay Silk Text to Silk Clearance [0.675mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Arc (585.433mil,2137.795mil) on Bottom Overlay And Text "C30" (933.131mil,1924.956mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Arc (585.433mil,2137.795mil) on Bottom Overlay And Text "C43" (914.42mil,1974.594mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Arc (585.433mil,2137.795mil) on Bottom Overlay And Text "C44" (945.42mil,1975.291mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Arc (585.433mil,2137.795mil) on Bottom Overlay And Text "C47" (745.204mil,1769.956mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Arc (585.433mil,2137.795mil) on Bottom Overlay And Text "C61" (681.438mil,1767.956mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "C137" (3091.36mil,914.483mil) on Bottom Overlay And Text "U5" (3087.642mil,810.436mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "C137" (3091.36mil,914.483mil) on Bottom Overlay And Track (3076.378mil,905.512mil)(3076.378mil,913.386mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "C137" (3091.36mil,914.483mil) on Bottom Overlay And Track (3076.378mil,905.512mil)(3155.118mil,905.512mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "C144" (2811.832mil,1077.262mil) on Top Overlay And Track (2814.961mil,1080.709mil)(2814.961mil,1159.449mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "C147" (2940.529mil,1322.474mil) on Bottom Overlay And Track (2769.685mil,1346.457mil)(2860.236mil,1346.457mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "C147" (2940.529mil,1322.474mil) on Bottom Overlay And Track (2895.669mil,1323.425mil)(2895.669mil,1453.347mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "C149" (3455.529mil,1719.474mil) on Bottom Overlay And Track (3397.638mil,1717.52mil)(3460.63mil,1717.52mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "C153" (3212.529mil,1543.474mil) on Bottom Overlay And Text "R65" (3163.529mil,1542.474mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "C190" (320.529mil,779.474mil) on Bottom Overlay And Track (316mil,731mil)(316mil,821mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "C195" (392.529mil,749.474mil) on Bottom Overlay And Track (316mil,731mil)(316mil,821mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "C195" (392.529mil,749.474mil) on Bottom Overlay And Track (316mil,776mil)(356mil,776mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "C195" (392.529mil,749.474mil) on Bottom Overlay And Track (356mil,731mil)(356mil,821mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "C204" (1494.62mil,443.892mil) on Top Overlay And Text "SDCARD" (1458.244mil,506.961mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (0.684mil < 1mil) Between Text "D18" (1694.164mil,2160.577mil) on Top Overlay And Track (1680.346mil,2188.976mil)(1696.346mil,2188.976mil) on Top Overlay Silk Text to Silk Clearance [0.684mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "Q3" (3224.529mil,1463.474mil) on Bottom Overlay And Track (3207.913mil,1480.252mil)(3207.913mil,1488.126mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "R107" (859.529mil,794.474mil) on Bottom Overlay And Text "R110" (926.529mil,794.474mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "R108" (1122.529mil,795.474mil) on Bottom Overlay And Text "R112" (1187.529mil,795.474mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "R109" (981.529mil,795.474mil) on Bottom Overlay And Text "R110" (926.529mil,794.474mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "R111" (1249.529mil,795.474mil) on Bottom Overlay And Text "R112" (1187.529mil,795.474mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "R122" (323.529mil,845.474mil) on Bottom Overlay And Text "R130" (348.448mil,915.729mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (0.561mil < 1mil) Between Text "R60" (3022.529mil,1323.474mil) on Bottom Overlay And Track (3025.59mil,1323.425mil)(3025.59mil,1451.378mil) on Bottom Overlay Silk Text to Silk Clearance [0.561mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "R62" (3118.529mil,1542.474mil) on Bottom Overlay And Text "R65" (3163.529mil,1542.474mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "U13" (3476.529mil,1850.474mil) on Bottom Overlay And Track (3429.134mil,1842.52mil)(3429.134mil,1913.386mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "U8" (3375.746mil,818.455mil) on Bottom Overlay And Track (3375mil,814.362mil)(3380mil,814.362mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (0.834mil < 1mil) Between Text "U8" (3375.746mil,818.455mil) on Bottom Overlay And Track (3380mil,724.362mil)(3380mil,814.362mil) on Bottom Overlay Silk Text to Silk Clearance [0.834mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "U9" (3410.672mil,1051.793mil) on Bottom Overlay And Track (3409.449mil,1031.496mil)(3409.449mil,1042.323mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "U9" (3410.672mil,1051.793mil) on Bottom Overlay And Track (3409.449mil,1042.323mil)(3472.441mil,1042.323mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "U9" (3410.672mil,1051.793mil) on Bottom Overlay And Track (3440.945mil,1004.921mil)(3440.945mil,1042.323mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 1mil) Between Text "Y5" (2480.529mil,764.474mil) on Bottom Overlay And Track (2464.567mil,751.968mil)(2464.567mil,830.709mil) on Bottom Overlay Silk Text to Silk Clearance [0mil]
-Rule Violations :40
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
@@ -152,11 +70,7 @@ Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('eMMC'))
 Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('ADD_CMD_CTRLB_G3'))
-   Violation between Matched Net Lengths: Between Net DRAM_DATA10_B And Net DRAM_DATA8_B Length:749.448mil is not within 10mil tolerance of Length:872.677mil (113.228mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA12_B And Net DRAM_DATA8_B Length:734.361mil is not within 10mil tolerance of Length:872.677mil (128.315mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA8_B And Net DRAM_SDQS1_B_N Length:749.573mil is not within 10mil tolerance of Length:872.677mil (113.104mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA8_B And Net DRAM_SDQS1_B_P Length:751.61mil is not within 10mil tolerance of Length:872.677mil (111.067mil short) 
-Rule Violations :4
+Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=3.937mil) (InDifferentialPairClass('Z100'))
 Rule Violations :0
@@ -174,71 +88,31 @@ Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('MICROSD1'))
 Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('ADD_CMD_CTRLA_G2'))
-   Violation between Matched Net Lengths: Between Net DRAM_DATA1_A And Net DRAM_DMI0_A Length:795.971mil is not within 10mil tolerance of Length:830.706mil (24.735mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA2_A And Net DRAM_DMI0_A Length:805.677mil is not within 10mil tolerance of Length:830.706mil (15.028mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA3_A And Net DRAM_DMI0_A Length:798.185mil is not within 10mil tolerance of Length:830.706mil (22.52mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA4_A And Net DRAM_DMI0_A Length:789.578mil is not within 10mil tolerance of Length:830.706mil (31.128mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA6_A And Net DRAM_DMI0_A Length:798.45mil is not within 10mil tolerance of Length:830.706mil (22.255mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA7_A And Net DRAM_DMI0_A Length:799.646mil is not within 10mil tolerance of Length:830.706mil (21.06mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DMI0_A And Net DRAM_SDQS0_A_N Length:785.304mil is not within 10mil tolerance of Length:830.706mil (35.402mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DMI0_A And Net DRAM_SDQS0_A_P Length:787.645mil is not within 10mil tolerance of Length:830.706mil (33.06mil short) 
-Rule Violations :8
+Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('ADD_CMD_CTRLA_G3'))
-   Violation between Matched Net Lengths: Between Net DRAM_DATA10_A And Net DRAM_DATA7_A Length:350.288mil is not within 10mil tolerance of Length:799.646mil (439.358mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA11_A And Net DRAM_DATA7_A Length:362.023mil is not within 10mil tolerance of Length:799.646mil (427.623mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA12_A And Net DRAM_DATA7_A Length:309.521mil is not within 10mil tolerance of Length:799.646mil (480.125mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA13_A And Net DRAM_DATA7_A Length:454.654mil is not within 10mil tolerance of Length:799.646mil (334.992mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA14_A And Net DRAM_DATA7_A Length:584.519mil is not within 10mil tolerance of Length:799.646mil (205.127mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA15_A And Net DRAM_DATA7_A Length:599.856mil is not within 10mil tolerance of Length:799.646mil (189.79mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA7_A And Net DRAM_DATA8_A Length:339.877mil is not within 10mil tolerance of Length:799.646mil (449.768mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA7_A And Net DRAM_DATA9_A Length:295.426mil is not within 10mil tolerance of Length:799.646mil (494.219mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA7_A And Net DRAM_DMI1_A Length:372.491mil is not within 10mil tolerance of Length:799.646mil (417.155mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA7_A And Net DRAM_SDQS1_A_N Length:540.027mil is not within 10mil tolerance of Length:799.646mil (249.619mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA7_A And Net DRAM_SDQS1_A_P Length:541.996mil is not within 10mil tolerance of Length:799.646mil (247.65mil short) 
-Rule Violations :11
+   Violation between Matched Net Lengths: Between Net DRAM_DATA10_A And Net DRAM_DATA7_A Length:350.288mil is not within 10mil tolerance of Length:825.706mil (465.418mil short) 
+   Violation between Matched Net Lengths: Between Net DRAM_DATA11_A And Net DRAM_DATA7_A Length:362.023mil is not within 10mil tolerance of Length:825.706mil (453.683mil short) 
+   Violation between Matched Net Lengths: Between Net DRAM_DATA12_A And Net DRAM_DATA7_A Length:492.875mil is not within 10mil tolerance of Length:825.706mil (322.831mil short) 
+   Violation between Matched Net Lengths: Between Net DRAM_DATA7_A And Net DRAM_DATA8_A Length:478.111mil is not within 10mil tolerance of Length:825.706mil (337.594mil short) 
+   Violation between Matched Net Lengths: Between Net DRAM_DATA7_A And Net DRAM_DMI1_A Length:372.491mil is not within 10mil tolerance of Length:825.706mil (443.215mil short) 
+Rule Violations :5
 
 Processing Rule : Matched Lengths(Tolerance=3.937mil) (InDifferentialPairClass('All Differential Pairs'))
 Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('ADD_CMD_CTRLA_G1'))
-   Violation between Matched Net Lengths: Between Net DRAM_CA0_A And Net DRAM_CA5_A Length:787.305mil is not within 10mil tolerance of Length:835.154mil (37.849mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_CA1_A And Net DRAM_CA5_A Length:798.358mil is not within 10mil tolerance of Length:835.154mil (26.796mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_CA2_A And Net DRAM_CA5_A Length:784.562mil is not within 10mil tolerance of Length:835.154mil (40.592mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_CA3_A And Net DRAM_CA5_A Length:785.764mil is not within 10mil tolerance of Length:835.154mil (39.39mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_CA5_A And Net DRAM_CK_B_N Length:682.483mil is not within 10mil tolerance of Length:835.154mil (142.671mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_CA5_A And Net DRAM_CK_B_P Length:680.515mil is not within 10mil tolerance of Length:835.154mil (144.639mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_CA5_A And Net DRAM_CKE0_A Length:753.476mil is not within 10mil tolerance of Length:835.154mil (71.677mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_CA5_A And Net DRAM_CKE1_A Length:787.943mil is not within 10mil tolerance of Length:835.154mil (37.211mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_CA5_A And Net DRAM_nCS0_A Length:747.432mil is not within 10mil tolerance of Length:835.154mil (77.722mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_CA5_A And Net DRAM_nCS1_A Length:676.793mil is not within 10mil tolerance of Length:835.154mil (148.361mil short) 
-Rule Violations :10
+Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('ADD_CMD_CTRLB_G2'))
-   Violation between Matched Net Lengths: Between Net DRAM_DATA0_B And Net DRAM_DATA7_B Length:325.473mil is not within 10mil tolerance of Length:867.677mil (532.205mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA1_B And Net DRAM_DATA7_B Length:295.716mil is not within 10mil tolerance of Length:867.677mil (561.961mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA2_B And Net DRAM_DATA7_B Length:305.339mil is not within 10mil tolerance of Length:867.677mil (552.338mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA3_B And Net DRAM_DATA7_B Length:325.133mil is not within 10mil tolerance of Length:867.677mil (532.544mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA4_B And Net DRAM_DATA7_B Length:351.989mil is not within 10mil tolerance of Length:867.677mil (505.688mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA5_B And Net DRAM_DATA7_B Length:461.991mil is not within 10mil tolerance of Length:867.677mil (395.686mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA6_B And Net DRAM_DATA7_B Length:613.276mil is not within 10mil tolerance of Length:867.677mil (244.401mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA7_B And Net DRAM_DMI0_B Length:371.74mil is not within 10mil tolerance of Length:867.677mil (485.937mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA7_B And Net DRAM_SDQS0_B_N Length:535.47mil is not within 10mil tolerance of Length:867.677mil (322.207mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA7_B And Net DRAM_SDQS0_B_P Length:537.438mil is not within 10mil tolerance of Length:867.677mil (320.239mil short) 
-Rule Violations :10
+   Violation between Matched Net Lengths: Between Net DRAM_DATA1_B And Net DRAM_DATA7_B Length:295.716mil is not within 10mil tolerance of Length:867.932mil (562.216mil short) 
+   Violation between Matched Net Lengths: Between Net DRAM_DATA2_B And Net DRAM_DATA7_B Length:514.512mil is not within 10mil tolerance of Length:867.932mil (343.42mil short) 
+   Violation between Matched Net Lengths: Between Net DRAM_DATA4_B And Net DRAM_DATA7_B Length:408.816mil is not within 10mil tolerance of Length:867.932mil (449.116mil short) 
+   Violation between Matched Net Lengths: Between Net DRAM_DATA7_B And Net DRAM_DMI0_B Length:469.247mil is not within 10mil tolerance of Length:867.932mil (388.685mil short) 
+Rule Violations :4
 
 Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('ADD_CMD_CTRLB_G1'))
-   Violation between Matched Net Lengths: Between Net DRAM_CA0_B And Net DRAM_CA4_B Length:722.587mil is not within 10mil tolerance of Length:854.491mil (121.903mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_CA1_B And Net DRAM_CA4_B Length:718.271mil is not within 10mil tolerance of Length:854.491mil (126.219mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_CA2_B And Net DRAM_CA4_B Length:716.161mil is not within 10mil tolerance of Length:854.491mil (128.329mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_CA3_B And Net DRAM_CA4_B Length:719.967mil is not within 10mil tolerance of Length:854.491mil (124.524mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_CA4_B And Net DRAM_CK_A_N Length:673.496mil is not within 10mil tolerance of Length:854.491mil (170.995mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_CA4_B And Net DRAM_CK_A_P Length:675.464mil is not within 10mil tolerance of Length:854.491mil (169.027mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_CA4_B And Net DRAM_CKE0_B Length:756.37mil is not within 10mil tolerance of Length:854.491mil (88.12mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_CA4_B And Net DRAM_CKE1_B Length:757.942mil is not within 10mil tolerance of Length:854.491mil (86.549mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_CA4_B And Net DRAM_nCS0_B Length:755.535mil is not within 10mil tolerance of Length:854.491mil (88.956mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_CA4_B And Net DRAM_nCS1_B Length:572.053mil is not within 10mil tolerance of Length:854.491mil (272.438mil short) 
-Rule Violations :10
+Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
@@ -247,6 +121,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=236.22mil) (Prefered=157.48m
 Rule Violations :0
 
 
-Violations Detected : 135
+Violations Detected : 9
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=DRAM_CK_A_N Pin=R31-1
+Removed Pin From Net: NetName=DRAM_CK_A_P Pin=R31-2
+Removed Pin From Net: NetName=DRAM_CK_B_N Pin=R32-1
+Removed Pin From Net: NetName=DRAM_CK_B_P Pin=R32-2
+Add Class: Class already exists: Designator

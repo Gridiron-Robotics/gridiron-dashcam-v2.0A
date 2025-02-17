@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=R25-1
+Removed Pin From Net: NetName=DRAM_CKE0_B Pin=R25-2
+Removed Pin From Net: NetName=GND Pin=R26-1
+Removed Pin From Net: NetName=DRAM_CKE1_B Pin=R26-2
+Removed Pin From Net: NetName=GND Pin=R27-1
+Removed Pin From Net: NetName=DRAM_CKE0_A Pin=R27-2
+Removed Pin From Net: NetName=GND Pin=R28-1
+Removed Pin From Net: NetName=DRAM_CKE1_A Pin=R28-2
+Add Class: Class already exists: Designator
