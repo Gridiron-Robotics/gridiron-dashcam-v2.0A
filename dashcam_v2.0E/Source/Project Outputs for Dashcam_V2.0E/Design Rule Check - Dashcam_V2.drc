@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\gridiron-dashcam-v2.0A\dashcam_v2.0E\Source\Dashcam_V2.0E.PcbDoc
+PCB File : C:\PCB_Projects\gridiron-dashcam-v2.0A\dashcam_v2.0E\Source\Dashcam_V2.0E.PcbDoc
 Date     : 2/16/2025
-Time     : 11:59:02 PM
+Time     : 7:11:10 PM
 
 Processing Rule : Clearance Constraint (Gap=6mil) (OnLayer('TOP')),(InBGA)
 Rule Violations :0
@@ -152,18 +152,11 @@ Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('eMMC'))
 Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('ADD_CMD_CTRLB_G3'))
-   Violation between Matched Net Lengths: Between Net DRAM_DATA10_B And Net DRAM_DATA8_B Length:749.448mil is not within 10mil tolerance of Length:895.582mil (136.134mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA11_B And Net DRAM_DATA8_B Length:756.1mil is not within 10mil tolerance of Length:895.582mil (129.482mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA12_B And Net DRAM_DATA8_B Length:660.573mil is not within 10mil tolerance of Length:895.582mil (225.009mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA13_B And Net DRAM_DATA8_B Length:635.44mil is not within 10mil tolerance of Length:895.582mil (250.143mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA14_B And Net DRAM_DATA8_B Length:646.506mil is not within 10mil tolerance of Length:895.582mil (239.077mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA15_B And Net DRAM_DATA8_B Length:654.963mil is not within 10mil tolerance of Length:895.582mil (230.619mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA7_B And Net DRAM_DATA8_B Length:641.903mil is not within 10mil tolerance of Length:895.582mil (243.68mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA8_B And Net DRAM_DATA9_B Length:839.552mil is not within 10mil tolerance of Length:895.582mil (46.031mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA8_B And Net DRAM_DMI1_B Length:791.132mil is not within 10mil tolerance of Length:895.582mil (94.451mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA8_B And Net DRAM_SDQS1_B_N Length:749.573mil is not within 10mil tolerance of Length:895.582mil (136.01mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA8_B And Net DRAM_SDQS1_B_P Length:751.542mil is not within 10mil tolerance of Length:895.582mil (134.041mil short) 
-Rule Violations :11
+   Violation between Matched Net Lengths: Between Net DRAM_DATA10_B And Net DRAM_DATA8_B Length:749.448mil is not within 10mil tolerance of Length:872.677mil (113.228mil short) 
+   Violation between Matched Net Lengths: Between Net DRAM_DATA12_B And Net DRAM_DATA8_B Length:734.361mil is not within 10mil tolerance of Length:872.677mil (128.315mil short) 
+   Violation between Matched Net Lengths: Between Net DRAM_DATA8_B And Net DRAM_SDQS1_B_N Length:749.573mil is not within 10mil tolerance of Length:872.677mil (113.104mil short) 
+   Violation between Matched Net Lengths: Between Net DRAM_DATA8_B And Net DRAM_SDQS1_B_P Length:751.61mil is not within 10mil tolerance of Length:872.677mil (111.067mil short) 
+Rule Violations :4
 
 Processing Rule : Matched Lengths(Tolerance=3.937mil) (InDifferentialPairClass('Z100'))
 Rule Violations :0
@@ -222,16 +215,16 @@ Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('ADD_CMD_CTRLA_G1
 Rule Violations :10
 
 Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('ADD_CMD_CTRLB_G2'))
-   Violation between Matched Net Lengths: Between Net DRAM_DATA0_B And Net DRAM_DATA7_B Length:325.473mil is not within 10mil tolerance of Length:641.903mil (306.43mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA1_B And Net DRAM_DATA7_B Length:295.716mil is not within 10mil tolerance of Length:641.903mil (336.187mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA2_B And Net DRAM_DATA7_B Length:305.339mil is not within 10mil tolerance of Length:641.903mil (326.563mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA3_B And Net DRAM_DATA7_B Length:325.133mil is not within 10mil tolerance of Length:641.903mil (306.769mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA4_B And Net DRAM_DATA7_B Length:351.989mil is not within 10mil tolerance of Length:641.903mil (279.914mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA5_B And Net DRAM_DATA7_B Length:461.991mil is not within 10mil tolerance of Length:641.903mil (169.912mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA6_B And Net DRAM_DATA7_B Length:613.276mil is not within 10mil tolerance of Length:641.903mil (18.626mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA7_B And Net DRAM_DMI0_B Length:371.74mil is not within 10mil tolerance of Length:641.903mil (260.163mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA7_B And Net DRAM_SDQS0_B_N Length:535.47mil is not within 10mil tolerance of Length:641.903mil (96.433mil short) 
-   Violation between Matched Net Lengths: Between Net DRAM_DATA7_B And Net DRAM_SDQS0_B_P Length:537.438mil is not within 10mil tolerance of Length:641.903mil (94.464mil short) 
+   Violation between Matched Net Lengths: Between Net DRAM_DATA0_B And Net DRAM_DATA7_B Length:325.473mil is not within 10mil tolerance of Length:867.677mil (532.205mil short) 
+   Violation between Matched Net Lengths: Between Net DRAM_DATA1_B And Net DRAM_DATA7_B Length:295.716mil is not within 10mil tolerance of Length:867.677mil (561.961mil short) 
+   Violation between Matched Net Lengths: Between Net DRAM_DATA2_B And Net DRAM_DATA7_B Length:305.339mil is not within 10mil tolerance of Length:867.677mil (552.338mil short) 
+   Violation between Matched Net Lengths: Between Net DRAM_DATA3_B And Net DRAM_DATA7_B Length:325.133mil is not within 10mil tolerance of Length:867.677mil (532.544mil short) 
+   Violation between Matched Net Lengths: Between Net DRAM_DATA4_B And Net DRAM_DATA7_B Length:351.989mil is not within 10mil tolerance of Length:867.677mil (505.688mil short) 
+   Violation between Matched Net Lengths: Between Net DRAM_DATA5_B And Net DRAM_DATA7_B Length:461.991mil is not within 10mil tolerance of Length:867.677mil (395.686mil short) 
+   Violation between Matched Net Lengths: Between Net DRAM_DATA6_B And Net DRAM_DATA7_B Length:613.276mil is not within 10mil tolerance of Length:867.677mil (244.401mil short) 
+   Violation between Matched Net Lengths: Between Net DRAM_DATA7_B And Net DRAM_DMI0_B Length:371.74mil is not within 10mil tolerance of Length:867.677mil (485.937mil short) 
+   Violation between Matched Net Lengths: Between Net DRAM_DATA7_B And Net DRAM_SDQS0_B_N Length:535.47mil is not within 10mil tolerance of Length:867.677mil (322.207mil short) 
+   Violation between Matched Net Lengths: Between Net DRAM_DATA7_B And Net DRAM_SDQS0_B_P Length:537.438mil is not within 10mil tolerance of Length:867.677mil (320.239mil short) 
 Rule Violations :10
 
 Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('ADD_CMD_CTRLB_G1'))
@@ -254,6 +247,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=236.22mil) (Prefered=157.48m
 Rule Violations :0
 
 
-Violations Detected : 142
+Violations Detected : 135
 Waived Violations : 0
-Time Elapsed        : 00:00:04
+Time Elapsed        : 00:00:01
