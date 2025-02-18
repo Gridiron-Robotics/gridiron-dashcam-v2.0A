@@ -1,11 +1,11 @@
 Output: Generates pick and place files
 Type  : Pick Place
-From  : Variant [Base Variant] of PCB Document [Dashcam CPU_V1.0 A.PcbDoc]
-   Generated File[Dashcam CPU_V1.0 A_A_2024-05-07.txt]
-   Generated File[Dashcam CPU_V1.0 A_A_2024-05-07.csv]
+From  : Variant [Base Variant] of PCB Document [Dashcam_V2.0E.PcbDoc]
+   Generated File[Dashcam_V2.0E_E_2025-02-17.txt]
+   Generated File[Dashcam_V2.0E_E_2025-02-17.csv]
 
 
 Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 10:24:37 AM On 5/7/2024
+Finished Output Generation At 10:04:29 PM On 2/17/2025

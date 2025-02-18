@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\PCB_Projects\gridiron-dashcam-v2.0A\dashcam_v2.0E\Source\Dashcam_V2.0E.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=dashcam_v2.0e-roundholes.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=dashcam_v2.0e-slotholes.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,gbl

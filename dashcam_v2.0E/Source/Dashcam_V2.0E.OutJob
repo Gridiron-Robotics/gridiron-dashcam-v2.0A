@@ -15,9 +15,9 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Dashcam CPU_V1.0 A.OutJob
+Name=Dashcam_V2.0E.OutJob
 Description=
-TargetOutputMedium=3D Models
+TargetOutputMedium=Assembly
 VariantName=Base Variant
 VariantScope=1
 CurrentConfigurationName=
@@ -93,7 +93,7 @@ OutputName4=Export STEP
 OutputCategory4=Export
 OutputDocumentPath4=
 OutputVariantName4=
-OutputEnabled4=1
+OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=0
@@ -109,7 +109,7 @@ OutputName5=Generates pick and place files
 OutputCategory5=Assembly
 OutputDocumentPath5=Dashcam_V2.0E.PcbDoc
 OutputVariantName5=
-OutputEnabled5=0
+OutputEnabled5=1
 OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=0
 OutputEnabled5_OutputMedium3=2
@@ -180,9 +180,9 @@ PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType8=BOM_PartType
 OutputName8=Bill of Materials
 OutputCategory8=Report
-OutputDocumentPath8=
+OutputDocumentPath8=Dashcam CPU_V2.0E.BomDoc
 OutputVariantName8=
-OutputEnabled8=0
+OutputEnabled8=1
 OutputEnabled8_OutputMedium1=0
 OutputEnabled8_OutputMedium2=0
 OutputEnabled8_OutputMedium3=1
@@ -195,15 +195,19 @@ PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration8_Name1=ColumnNameFormat
 Configuration8_Item1=CaptionAsName
 Configuration8_Name2=General
-Configuration8_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=1524|FormHeight=658|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration8_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=1524|FormHeight=1225|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
 Configuration8_Name3=GroupOrder
 Configuration8_Item3=Comment=True|Description=True|Value=True|Manufacturer Part Number=True
 Configuration8_Name4=SortOrder
 Configuration8_Item4=Description=Down
 Configuration8_Name5=VisibleOrder
-Configuration8_Item5=Designator=104|Quantity=56|Manufacturer=205|Manufacturer Part Number=149|Description=266
-Configuration8_Name6=VisibleOrder_Flat
-Configuration8_Item6=Designator=104|Quantity=56|Manufacturer=205|Manufacturer Part Number=149|Description=266
+Configuration8_Item5=Designator=104|Quantity=56|Manufacturer=205|Manufacturer Part Number=149|Description=266|Supplier Part Number 1=100|Supplier 1=100|Manufacturer Part Number 1=100|Manufacturer_Name=100
+Configuration8_Name6=VisibleOrder_Base
+Configuration8_Item6=Description=79|Designator=77|Quantity=66|Manufacturer Part Number=160|Comment=168|Manufacturer 1=180|Manufacturer Part Number 1=166|Supplier 1=110|Supplier Part Number 1=137
+Configuration8_Name7=VisibleOrder_Consolidated
+Configuration8_Item7=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=100|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=110|Supplier Part Number 1=138|Supplier Unit Price 1=122|Supplier Subtotal 1=116|Quantity@Base Variant=100|Price@Base Variant=100
+Configuration8_Name8=VisibleOrder_Flat
+Configuration8_Item8=Designator=104|Quantity=56|Manufacturer=205|Manufacturer Part Number=149|Description=266|Supplier Part Number 1=100|Supplier 1=100|Manufacturer Part Number 1=100|Manufacturer_Name=100
 OutputType9=Mask
 OutputName9=Fabrication Prints
 OutputCategory9=Fabrication
@@ -311,7 +315,7 @@ OutputEnabled12_OutputMedium5=0
 OutputEnabled12_OutputMedium6=0
 OutputEnabled12_OutputMedium7=1
 OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=2.30|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=3.07|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration12_Name1=OutputConfigurationParameter1
 Configuration12_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=13843242|ViewY=36417324|LookAtX=38582676|LookAtY=68307088|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=3.39673502643961E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ScreenWidth=0|ScreenHeight=0|ImageOutputType=1|ViewConfig=RECORD\3Board\2CFGALL.CONFIGURATIONKIND\33\2CFGALL.CONFIGURATIONDESC\3Altium%203D%20Red%20Configuration\2CFGALL.COMPONENTBODYREFPOINTCOLOR\316777215\2CFGALL.COMPONENTBODYSNAPPOINTCOLOR\316777215\2CFGALL.SHOWCOMPONENTSNAPMARKERS\3FALSE\2CFGALL.SHOWCOMPONENTSNAPREFERENCE\3FALSE\2CFGALL.SHOWCOMPONENTSNAPCUSTOM\3FALSE\2CFG3D.POSITIVETOPSOLDERMASK\3TRUE\2CFG3D.POSITIVEBOTTOMSOLDERMASK\3TRUE\2CFG3D.SHOWCOMPONENTBODIES\3SYSTEM\2CFG3D.SHOWCOMPONENTSTEPMODELS\3SYSTEM\2CFG3D.COMPONENTMODELPREFERENCE\30\2CFG3D.SHOWCOMPONENTAXES\3TRUE\2CFG3D.SHOWBOARDCORE\3TRUE\2CFG3D.SHOWBOARDPREPREG\3TRUE\2CFG3D.SHOWTOPSILKSCREEN\3TRUE\2CFG3D.SHOWBOTSILKSCREEN\3TRUE\2CFG3D.SHOWORIGINMARKER\3TRUE\2CFG3D.EYEDIST\32000\2CFG3D.SHOWCUTOUTS\3TRUE\2CFG3D.SHOWROUTETOOLPATH\3TRUE\2CFG3D.SHOWROOMS3D\3FALSE\2CFG3D.USESYSCOLORSFOR3D\3FALSE\2CFG3D.WORKSPACECOLOR\310854550\2CFG3D.BOARDCORECOLOR\314152690\2CFG3D.BOARDPREPREGCOLOR\30\2CFG3D.TOPSOLDERMASKCOLOR\31509789\2CFG3D.BOTSOLDERMASKCOLOR\31509789\2CFG3D.COPPERCOLOR\33323360\2CFG3D.TOPSILKSCREENCOLOR\315461355\2CFG3D.BOTSILKSCREENCOLOR\315461355\2CFG3D.WORKSPACELUMINANCEVARIATION\330\2CFG3D.WORKSPACEBEGINCOLOR\312763321\2CFG3D.WORKSPACEENDCOLOR\38880756\2CFG3D.WORKSPACECOLOROPACITY\31.000000\2CFG3D.BOARDCORECOLOROPACITY\30.910000\2CFG3D.BOARDPREPREGCOLOROPACITY\30.500000\2CFG3D.TOPSOLDERMASKCOLOROPACITY\30.730000\2CFG3D.BOTSOLDERMASKCOLOROPACITY\30.730000\2CFG3D.COPPERCOLOROPACITY\31.000000\2CFG3D.TOPSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOTSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOARDTHICKNESSSCALING\31.000000\2CFG3D.SHOWMECHANICALLAYERS\3FALSE\2CFG3D.MECHANICALLAYERSOPACITY\31.000000\2CFG3D.MECHCOVERLAYERUPDATED\3FALSE|DocumentPath=D:\Docs\Projects\3rdParty\Wesa\Current Projects - Soner\_Sources\RX1.2 B _Wireless X Remote_\RX_1.2.PcbDoc
 OutputType13=PCB 3D Print
@@ -331,6 +335,22 @@ OutputDefault13=0
 PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=2.30|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration13_Name1=OutputConfigurationParameter1
 Configuration13_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=13843242|ViewY=36417324|LookAtX=38582676|LookAtY=68307088|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=3.39673502643961E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=False|ScreenWidth=0|ScreenHeight=0|ImageOutputType=1|ViewConfig=RECORD\3Board\2CFGALL.CONFIGURATIONKIND\33\2CFGALL.CONFIGURATIONDESC\3Altium%203D%20Red%20Configuration\2CFGALL.COMPONENTBODYREFPOINTCOLOR\316777215\2CFGALL.COMPONENTBODYSNAPPOINTCOLOR\316777215\2CFGALL.SHOWCOMPONENTSNAPMARKERS\3FALSE\2CFGALL.SHOWCOMPONENTSNAPREFERENCE\3FALSE\2CFGALL.SHOWCOMPONENTSNAPCUSTOM\3FALSE\2CFG3D.POSITIVETOPSOLDERMASK\3TRUE\2CFG3D.POSITIVEBOTTOMSOLDERMASK\3TRUE\2CFG3D.SHOWCOMPONENTBODIES\3SYSTEM\2CFG3D.SHOWCOMPONENTSTEPMODELS\3SYSTEM\2CFG3D.COMPONENTMODELPREFERENCE\30\2CFG3D.SHOWCOMPONENTAXES\3TRUE\2CFG3D.SHOWBOARDCORE\3TRUE\2CFG3D.SHOWBOARDPREPREG\3TRUE\2CFG3D.SHOWTOPSILKSCREEN\3TRUE\2CFG3D.SHOWBOTSILKSCREEN\3TRUE\2CFG3D.SHOWORIGINMARKER\3TRUE\2CFG3D.EYEDIST\32000\2CFG3D.SHOWCUTOUTS\3TRUE\2CFG3D.SHOWROUTETOOLPATH\3TRUE\2CFG3D.SHOWROOMS3D\3FALSE\2CFG3D.USESYSCOLORSFOR3D\3FALSE\2CFG3D.WORKSPACECOLOR\310854550\2CFG3D.BOARDCORECOLOR\314152690\2CFG3D.BOARDPREPREGCOLOR\30\2CFG3D.TOPSOLDERMASKCOLOR\31509789\2CFG3D.BOTSOLDERMASKCOLOR\31509789\2CFG3D.COPPERCOLOR\33323360\2CFG3D.TOPSILKSCREENCOLOR\315461355\2CFG3D.BOTSILKSCREENCOLOR\315461355\2CFG3D.WORKSPACELUMINANCEVARIATION\330\2CFG3D.WORKSPACEBEGINCOLOR\312763321\2CFG3D.WORKSPACEENDCOLOR\38880756\2CFG3D.WORKSPACECOLOROPACITY\31.000000\2CFG3D.BOARDCORECOLOROPACITY\30.910000\2CFG3D.BOARDPREPREGCOLOROPACITY\30.500000\2CFG3D.TOPSOLDERMASKCOLOROPACITY\30.730000\2CFG3D.BOTSOLDERMASKCOLOROPACITY\30.730000\2CFG3D.COPPERCOLOROPACITY\31.000000\2CFG3D.TOPSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOTSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOARDTHICKNESSSCALING\31.000000\2CFG3D.SHOWMECHANICALLAYERS\3FALSE\2CFG3D.MECHANICALLAYERSOPACITY\31.000000\2CFG3D.MECHCOVERLAYERUPDATED\3FALSE|DocumentPath=D:\Docs\Projects\3rdParty\Wesa\Current Projects - Soner\_Sources\RX1.2 B _Wireless X Remote_\RX_1.2.PcbDoc
+OutputType14=IPC2581
+OutputName14=IPC-2581 Files
+OutputCategory14=Fabrication
+OutputDocumentPath14=Dashcam_V2.0E.PcbDoc
+OutputVariantName14=
+OutputEnabled14=0
+OutputEnabled14_OutputMedium1=0
+OutputEnabled14_OutputMedium2=3
+OutputEnabled14_OutputMedium3=0
+OutputEnabled14_OutputMedium4=0
+OutputEnabled14_OutputMedium5=0
+OutputEnabled14_OutputMedium6=0
+OutputEnabled14_OutputMedium7=0
+OutputDefault14=0
+Configuration14_Name1=OutputConfigurationParameter1
+Configuration14_Item1=Record=IPC2581View|IPC2581Version=B|MeasurementSystem=Metric|FloatingPointPrecision=6|IsWiseSupport=False|MergeNetTieNets=False|OEMDesignNumberRef=DesignItemID|DifferentFootprints=False|DocumentPath=C:\PCB_Projects\gridiron-dashcam-v2.0A\dashcam_v2.0E\Source\Dashcam_V2.0E.PcbDoc
 
 [PublishSettings]
 OutputFilePath1=C:\Users\Elio Fagundez\Documents\GitHub\dashcam\Hardware\Altium Files - Dashcam CPU\05.07.2024\Manufacturing\
@@ -360,7 +380,7 @@ ShowComponentParameters1=1
 GlobalBookmarks1=0
 PDFACompliance1=Disabled
 PDFVersion1=Default
-OutputFilePath2=C:\Users\Elio Fagundez\Documents\GitHub\dashcam\Hardware\Altium Files - Dashcam CPU\05.07.2024\Manufacturing\Fabrication\
+OutputFilePath2=C:\PCB_Projects\gridiron-dashcam-v2.0A\dashcam_v2.0E\Manufacturing\Fabrication\
 ReleaseManaged2=0
 OutputBasePath2=..\Manufacturing\
 OutputPathMedia2=[Media Name]
@@ -373,7 +393,7 @@ OutputFileNameMulti2==
 UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
 OpenOutput2=0
-OutputFilePath3=C:\Users\Elio Fagundez\Documents\GitHub\dashcam\Hardware\Altium Files - Dashcam CPU\05.07.2024\Manufacturing\Assembly\
+OutputFilePath3=C:\PCB_Projects\gridiron-dashcam-v2.0A\dashcam_v2.0E\Manufacturing\Assembly\
 ReleaseManaged3=0
 OutputBasePath3=..\Manufacturing\
 OutputPathMedia3=[Media Name]
@@ -386,7 +406,7 @@ OutputFileNameMulti3==ProjectName+'_'+Letter+'_'+CurrentDate
 UseOutputNameForMulti3=0
 OutputFileNameSpecial3=
 OpenOutput3=0
-OutputFilePath4=C:\Users\Elio Fagundez\Documents\GitHub\dashcam\Hardware\Altium Files - Dashcam CPU\05.07.2024\Manufacturing\
+OutputFilePath4=C:\PCB_Projects\gridiron-dashcam-v2.0A\dashcam_v2.0E\Manufacturing\
 ReleaseManaged4=0
 OutputBasePath4=..\Manufacturing\
 OutputPathMedia4=
@@ -443,7 +463,7 @@ PDFVersion7=Default
 [GeneratedFilesSettings]
 RelativeOutputPath1=C:\Users\Elio Fagundez\Documents\GitHub\dashcam\Hardware\Altium Files - Dashcam CPU\05.07.2024\Manufacturing\
 OpenOutputs1=0
-RelativeOutputPath2=C:\Users\Elio Fagundez\Documents\GitHub\dashcam\Hardware\Altium Files - Dashcam CPU\05.07.2024\Manufacturing\Fabrication\
+RelativeOutputPath2=C:\PCB_Projects\gridiron-dashcam-v2.0A\dashcam_v2.0E\Manufacturing\Fabrication\
 OpenOutputs2=0
 AddToProject2=1
 TimestampFolder2=0
@@ -453,7 +473,7 @@ OpenGerberOutput2=0
 OpenNCDrillOutput2=0
 OpenIPCOutput2=0
 EnableReload2=0
-RelativeOutputPath3=C:\Users\Elio Fagundez\Documents\GitHub\dashcam\Hardware\Altium Files - Dashcam CPU\05.07.2024\Manufacturing\Assembly\
+RelativeOutputPath3=C:\PCB_Projects\gridiron-dashcam-v2.0A\dashcam_v2.0E\Manufacturing\Assembly\
 OpenOutputs3=0
 AddToProject3=1
 TimestampFolder3=0
@@ -463,7 +483,7 @@ OpenGerberOutput3=0
 OpenNCDrillOutput3=0
 OpenIPCOutput3=0
 EnableReload3=0
-RelativeOutputPath4=C:\Users\Elio Fagundez\Documents\GitHub\dashcam\Hardware\Altium Files - Dashcam CPU\05.07.2024\Manufacturing\
+RelativeOutputPath4=C:\PCB_Projects\gridiron-dashcam-v2.0A\dashcam_v2.0E\Manufacturing\
 OpenOutputs4=0
 AddToProject4=1
 TimestampFolder4=0

@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Dashcam_V2.0E.PcbDoc   2/17/2025  9:50:34 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : TOP to BOTTOM
+ASCII RoundHoles File : Dashcam_V2.0E-RoundHoles.TXT
+ASCII SlotHoles File : Dashcam_V2.0E-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.201mm)                                            Round             6         PTH        0.75inch (19.10mm)
+T2      8mil (0.203mm)                                            Round             1035      PTH        72.60inch (1844.06mm)
+T3      20mil (0.5mm)                                             Round             4         PTH        0.94inch (23.84mm)
+T4      20mil (0.5mm)                                             Slot              4         PTH        6.85inch (173.88mm)
+T5      22mil (0.551mm)                                           Slot              8         PTH        3.66inch (93.00mm)
+T6      42mil (1.067mm)                                           Round             2         PTH        0.66inch (16.66mm)
+T7      126mil (3.2mm)                                            Round             4         PTH        8.70inch (221.00mm)
+T8      37mil (0.95mm)                                            Round             2         NPTH       0.27inch (6.80mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1065
+
+Total Processing Time (hh:mm:ss) : 00:00:01
