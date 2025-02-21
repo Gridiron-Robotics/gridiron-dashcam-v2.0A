@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\PCB_Projects\gridiron-dashcam-v2.0A\dashcam_v2.0E\Source\Dashcam_V2.0E.PcbDoc
-Date     : 2/17/2025
-Time     : 9:42:16 PM
+PCB File : C:\gridiron-dashcam-v2.0A\dashcam_v2.0E\Source\Dashcam_V2.0E.PcbDoc
+Date     : 2/22/2025
+Time     : 12:59:36 AM
 
 Processing Rule : Clearance Constraint (Gap=6mil) (OnLayer('TOP')),(InBGA)
 Rule Violations :0
@@ -18,7 +18,7 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=3mil) (Max=80mil) (Preferred=10mil) (InNetClass('ADD_CMD_CTRLA_G1') OR InNetClass('ADD_CMD_CTRLA_G2') OR InNetClass('ADD_CMD_CTRLA_G3') OR InNetClass('ADD_CMD_CTRLB_G1') OR InNetClass('Z50') OR InNetClass('ADD_CMD_CTRLB_G2') OR InNetClass('ADD_CMD_CTRLB_G3'))
+Processing Rule : Width Constraint (Min=3mil) (Max=80mil) (Preferred=10mil) (InNetClass('eMMC'))
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=3mil) (Max=80mil) (Preferred=10mil) (InNetClass('MICROSD1'))
@@ -27,13 +27,13 @@ Rule Violations :0
 Processing Rule : Width Constraint (Min=6mil) (Max=80mil) (Preferred=10mil) (InNetClass('POWER'))
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=3mil) (Max=80mil) (Preferred=10mil) (InNetClass('eMMC'))
-Rule Violations :0
-
-Processing Rule : Width Constraint (Min=3mil) (Max=80mil) (Preferred=10mil) (All)
+Processing Rule : Width Constraint (Min=3mil) (Max=80mil) (Preferred=10mil) (InNetClass('ADD_CMD_CTRLA_G1') OR InNetClass('ADD_CMD_CTRLA_G2') OR InNetClass('ADD_CMD_CTRLA_G3') OR InNetClass('ADD_CMD_CTRLB_G1') OR InNetClass('Z50') OR InNetClass('ADD_CMD_CTRLB_G2') OR InNetClass('ADD_CMD_CTRLB_G3'))
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=3mil) (Max=80mil) (Preferred=10mil) (InNetClass('MICROSD'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3mil) (Max=80mil) (Preferred=10mil) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (IsVia)
@@ -63,55 +63,39 @@ Rule Violations :0
 Processing Rule : Board Clearance Constraint (Gap=0mil) ((InNet('GND')AND IsPolygon))
 Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=3.937mil) (InDifferentialPairClass('Z90'))
+Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('MICROSD'))
 Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('eMMC'))
 Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('ADD_CMD_CTRLB_G3'))
-Rule Violations :0
-
-Processing Rule : Matched Lengths(Tolerance=3.937mil) (InDifferentialPairClass('Z100'))
+Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('CSI2_Z100'))
 Rule Violations :0
 
 Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('CSI1_Z100'))
 Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('CSI2_Z100'))
-Rule Violations :0
-
-Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('MICROSD'))
-Rule Violations :0
-
 Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('MICROSD1'))
 Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('ADD_CMD_CTRLA_G2'))
-Rule Violations :0
-
-Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('ADD_CMD_CTRLA_G3'))
-Rule Violations :0
-
 Processing Rule : Matched Lengths(Tolerance=3.937mil) (InDifferentialPairClass('All Differential Pairs'))
+   Violation between Matched Net Lengths: Between Net DRAM_CK_A_N And Net DRAM_CK_A_P Actual Difference against DRAM_CK_A_P is: 11.634mil, Tolerance : 3.937mil. 
+   Violation between Matched Net Lengths: Between Net DRAM_SDQS0_B_N And Net DRAM_SDQS0_B_P Actual Difference against DRAM_SDQS0_B_P is: 12.216mil, Tolerance : 3.937mil. 
+Rule Violations :2
+
+Processing Rule : Matched Lengths(Tolerance=3.937mil) (InDifferentialPairClass('Z100'))
 Rule Violations :0
 
-Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('ADD_CMD_CTRLA_G1'))
-Rule Violations :0
-
-Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('ADD_CMD_CTRLB_G2'))
-Rule Violations :0
-
-Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('ADD_CMD_CTRLB_G1'))
-Rule Violations :0
-
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Processing Rule : Matched Lengths(Tolerance=3.937mil) (InDifferentialPairClass('Z90'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mil) (Max=236.22mil) (Prefered=157.48mil) ((OnLayer('Bottom Layer')))
 Rule Violations :0
 
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
 
-Violations Detected : 0
+
+Violations Detected : 2
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:05
