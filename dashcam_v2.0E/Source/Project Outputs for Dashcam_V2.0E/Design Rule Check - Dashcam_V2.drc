@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\gridiron-dashcam-v2.0A\dashcam_v2.0E\Source\Dashcam_V2.0E.PcbDoc
+PCB File : C:\PCB_Projects\gridiron-dashcam-v2.0A\dashcam_v2.0E\Source\Dashcam_V2.0E.PcbDoc
 Date     : 2/23/2025
-Time     : 7:34:05 PM
+Time     : 11:55:14 AM
 
 Processing Rule : Clearance Constraint (Gap=6mil) (OnLayer('TOP')),(InBGA)
 Rule Violations :0
@@ -120,4 +120,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:06
+Time Elapsed        : 00:00:01
