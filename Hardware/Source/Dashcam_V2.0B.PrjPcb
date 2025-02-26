@@ -1184,28 +1184,32 @@ DocumentPath=..\Manufacturing\Assembly\BOM\Dashcam CPU_V1.0 A_A_2024-05-07.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for Dashcam_V2.0E\Design Rule Check - Dashcam_V2.html
+DocumentPath=Project Outputs for Dashcam_V2.0B\Design Rule Check - Dashcam_V2.html
 DItemRevisionGUID=
 
 [GeneratedDocument27]
+DocumentPath=Project Outputs for Dashcam_V2.0E\Design Rule Check - Dashcam_V2.html
+DItemRevisionGUID=
+
+[GeneratedDocument28]
 DocumentPath=Project Outputs for Dashcam CPU_V1.0 A\Design Rule Check - Dashcam CPU_V1.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Version
-Value=2.0
+Name=Hat
+Value=
 
 [Parameter2]
-Name=ProjectTitle
-Value=Dashcam CPU_V2.0B
-
-[Parameter3]
 Name=Letter
 Value=B
 
+[Parameter3]
+Name=ProjectTitle
+Value=Dashcam CPU_V2.0B
+
 [Parameter4]
-Name=Hat
-Value=
+Name=Version
+Value=2.0
 
 [Configuration1]
 Name=Sources

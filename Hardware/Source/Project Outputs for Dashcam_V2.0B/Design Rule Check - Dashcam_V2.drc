@@ -1,0 +1,123 @@
+Protel Design System Design Rule Check
+PCB File : C:\gridiron-dashcam-v2.0A\Hardware\Source\Dashcam_V2.0B.PcbDoc
+Date     : 2/26/2025
+Time     : 5:10:01 PM
+
+Processing Rule : Clearance Constraint (Gap=6mil) (OnLayer('TOP')),(InBGA)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3mil) (Max=80mil) (Preferred=10mil) (InNetClass('MICROSD1'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3mil) (Max=80mil) (Preferred=10mil) (InNetClass('eMMC'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=80mil) (Preferred=10mil) (InNetClass('POWER'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3mil) (Max=80mil) (Preferred=10mil) (InNetClass('MICROSD'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3mil) (Max=80mil) (Preferred=10mil) (InNetClass('ADD_CMD_CTRLA_G1') OR InNetClass('ADD_CMD_CTRLA_G2') OR InNetClass('ADD_CMD_CTRLA_G3') OR InNetClass('ADD_CMD_CTRLB_G1') OR InNetClass('Z50') OR InNetClass('ADD_CMD_CTRLB_G2') OR InNetClass('ADD_CMD_CTRLB_G3'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3mil) (Max=80mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (IsVia)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=19.685mil) (Conductor Width=11.811mil) (Air Gap=9.842mil) (Entries=4) (IsPad)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=5mil) (Max=100mil) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) ((InNet('GND')AND IsPolygon))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=3.937mil) (InDifferentialPairClass('All Differential Pairs'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InxSignalClass('DATA_DQA1'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=5mil) (InxSignalClass('ADDR_PP1') OR InxSignalClass('DATA_DQA0') OR InxSignalClass('DATA_DQA1'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InxSignalClass('ADDR_PP1'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InxSignalClass('DATA_DQA0'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InxSignalClass('DATA_DQB1'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=5mil) (InxSignalClass('ADDR_PPB1') OR InxSignalClass('DATA_DQB0') OR InxSignalClass('DATA_DQB1'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InxSignalClass('ADDR_PPB1'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InxSignalClass('DATA_DQB0'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('CSI2_Z100'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('eMMC'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('MICROSD'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=3.937mil) (InDifferentialPairClass('Z100'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=3.937mil) (InDifferentialPairClass('Z90'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('CSI1_Z100'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=10mil) (InNetClass('MICROSD1'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=236.22mil) (Prefered=157.48mil) ((OnLayer('Bottom Layer')))
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:04
